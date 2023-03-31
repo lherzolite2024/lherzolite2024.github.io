@@ -2,13 +2,16 @@ Here it goes some fancy picture, meeting logo, sponsor logos...
 
 **Here it goes the introduction**: Lherzolite meetings are a series of...TODO
 
+> 🚨 blablablba 
+
+
+Map of the site (click where you want to go)
+
 [TOC]
 
 # Announcements
 
 TODO
-
-> 🚨 blablablba 
 
 # Practical information
 

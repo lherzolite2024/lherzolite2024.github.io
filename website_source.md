@@ -1,4 +1,6 @@
-Here it goes some fancy picture, meeting logo, sponsor logos... 
+![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
+
+Above it goes some fancy picture, meeting logo, sponsor logos,etc. TODO 
 
 Lherzolite meetings are a series of...TODO
 

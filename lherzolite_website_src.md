@@ -73,6 +73,16 @@ TODO
 
 
 
+# Fieldtrips
+
+## Pre-conference fieldtrip
+
+Cabo Ortegal
+
+## Post-conference fieldtrip
+
+?
+
 # Programme
 
 The programme will be available after the abstract submission deadline in html and pdf formats.
@@ -103,7 +113,7 @@ Available soon
 
 TODO
 
-## Advisory commitee
+## Advisory committee
 
 TODO
 

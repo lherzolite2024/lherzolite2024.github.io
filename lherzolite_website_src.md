@@ -2,18 +2,32 @@
 
 Above it goes some fancy picture, meeting logo, sponsor logos,etc. TODO 
 
-Lherzolite meetings are a series of...TODO
+👉 Basic information here.
 
-> 🚨 Important announcement... 
+The International Orogenic Lherzolite Conference aims to bring together specialists in mantle processes to present key mantle (and adjacent rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle...TODO. The 7th Orogenic Lherzolite meeting...TODO
+
+We encourage you to submit new and exciting contributions to the 7th Orogenic Lherzolite meeting and we kindly ask you to disseminate this information among other colleagues potentially interested.
+
+> 🚨**Announcements**.
+>
+> TODO 
 
 
 Website map (click where you want to go)
 
 [TOC]
 
-# Announcements
+# About
+
+(detailed information about the congress, such as its history, aims, and themes)
+
+Lherzolite meetings are a series of...TODO
+
+### History
 
 TODO
+
+The First International Orogenic Lherzolite meeting was held in Montpellier (France) in 1990 around the Lherz peridotite outcrop. Subsequent Orogenic Lherzolite meetings were in Granada (Spain) in 1995 visiting the Ronda and Beni Bousera peridotites..., in Pavia (Italy) in 1999 visiting the Ivrea, Malenco... peridotite outcrops, Samani (Japan) in 2002 visiting the Horoman Peridotite Complex in Hokkaido, Shasta City in California (USA) 2008 visiting the Josephine and Trinity peridotites.
 
 # Practical information
 
@@ -21,7 +35,7 @@ TODO
 
 ## Venue
 
-TODO: Info plus some pictures and a google map link & coordinates. Also maps of publc transport, etc.
+TODO: Info plus some pictures and a google map link & coordinates. Also public transport maps, etc.
 
 ## Travel advice
 
@@ -45,7 +59,7 @@ TODO: General instructions plus advice.
 
 # Abstract submission
 
-The deadline for abstract submission is...TODO We encourage you to submit new and exciting contributions to the Lherzolite meeting and we kindly ask you to disseminate this information among other colleagues potentially interested.
+The deadline for abstract submission is...TODO 
 
 Download the templates with detailed information about the size and format in the links provided below. Then, submit your abstract to john.doe@email.com. When submitting your abstract, please forward also the form (one for abstract) where you will indicate the preferred topical session, the presentation modality (oral/poster/online) and other relevant information.
 
@@ -53,7 +67,7 @@ Download the templates with detailed information about the size and format in th
 
 [Abstract template (plain text + latex equations)]()
 
-[Instructions]()
+[Participation form]()
 
 Please, stay tuned about new announcements and information in the website and [@lherzolite2024](). 
 
@@ -118,4 +132,12 @@ TODO
 TODO
 
 ## Contact details
+
+
+
+---
+
+
+
+
 

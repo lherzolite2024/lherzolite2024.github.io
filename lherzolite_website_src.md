@@ -1,14 +1,12 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Above it goes some fancy picture, meeting logo, sponsor logos,etc. TODO 
+👉 Above it goes some fancy picture, meeting logo, sponsor logos,etc.
 
-👉 Basic information here.
+The 7th Orogenic Lherzolite meeting will be held in June 2024 in Spain...
 
-The International Orogenic Lherzolite Conference aims to bring together specialists in mantle processes to present key mantle (and adjacent rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle...TODO. The 7th Orogenic Lherzolite meeting...TODO
+We encourage you to submit new and exciting contributions and we kindly ask you to disseminate this information among other colleagues potentially interested.
 
-We encourage you to submit new and exciting contributions to the 7th Orogenic Lherzolite meeting and we kindly ask you to disseminate this information among other colleagues potentially interested.
-
-> 🚨**Announcements**.
+> 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
 > TODO 
 
@@ -21,13 +19,20 @@ Website map (click where you want to go)
 
 (detailed information about the congress, such as its history, aims, and themes)
 
-Lherzolite meetings are a series of...TODO
+The International Orogenic Lherzolite Conference aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. 
 
-### History
+## History
 
 TODO
 
-The First International Orogenic Lherzolite meeting was held in Montpellier (France) in 1990 around the Lherz peridotite outcrop. Subsequent Orogenic Lherzolite meetings were in Granada (Spain) in 1995 visiting the Ronda and Beni Bousera peridotites..., in Pavia (Italy) in 1999 visiting the Ivrea, Malenco... peridotite outcrops, Samani (Japan) in 2002 visiting the Horoman Peridotite Complex in Hokkaido, Shasta City in California (USA) 2008 visiting the Josephine and Trinity peridotites.
+The first International Orogenic Lherzolite meeting was held in Montpellier (France) in 1990 around the Lherz peridotite outcrop in the French Pyrenees. Subsequent Orogenic Lherzolite meetings were as follows
+
+- 1990 - Montpellier (France) - Lherz peridotite in the French Pyrenees.
+- 1995 - Granada (Spain) - Ronda and Beni Bousera peridotites...
+- 1999 - Pavia (Italy) - Ivrea, Malenco... peridotite outcrops
+- 2002 - Samani (Japan) - Horoman Peridotite Complex in Hokkaido
+- 2008 - Shasta City in California (USA) - Josephine and Trinity peridotites
+- 2014 - Marrakech (Morocco) - Beni Bousera peridotite and Middle and Anti-Atlas mantle xenoliths and ophiolites
 
 # Practical information
 
@@ -36,6 +41,8 @@ TODO
 ## Venue
 
 TODO: Info plus some pictures and a google map link & coordinates. Also public transport maps, etc.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Travel advice
 
@@ -91,13 +98,13 @@ TODO
 
 ## Pre-conference fieldtrip
 
-Cabo Ortegal
+Mantle and high-pressure units (Opx-free granulites and eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula)
 
 ## Post-conference fieldtrip
 
 ?
 
-# Programme
+# Programme & event schedule
 
 The programme will be available after the abstract submission deadline in html and pdf formats.
 

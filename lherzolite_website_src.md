@@ -1,8 +1,10 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
+_Last update: 2021-04-17_
+
 👉 Above it goes some fancy picture, meeting logo, sponsor logos,etc.
 
-The 7th Orogenic Lherzolite meeting will be held in June 2024 in Spain...
+The 7th Orogenic Lherzolite meeting will be held in June 2024 in Spain around the Cabo Ortegal massif outcrop...TODO
 
 We encourage you to submit new and exciting contributions and we kindly ask you to disseminate this information among other colleagues potentially interested.
 
@@ -17,23 +19,18 @@ Website map (click where you want to go)
 
 # About
 
-(detailed information about the congress, such as its history, aims, and themes)
-
 The International Orogenic Lherzolite Conference aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. 
 
 ## History
 
-TODO
+The first International Orogenic Lherzolite meeting was held in Montpellier (France) in 1990 around the Lherz peridotite outcrop in the French Pyrenees. Since then, a total of 6 Orogenic Lherzolite conferences have been held around the world:
 
-The first International Orogenic Lherzolite meeting was held in Montpellier (France) in 1990 around the Lherz peridotite outcrop in the French Pyrenees. Subsequent Orogenic Lherzolite meetings were as follows
-
-- 1990 - Montpellier (France) - Lherz peridotite in the French Pyrenees.
-- 1995 - Granada (Spain) - Ronda and Beni Bousera peridotites...
-- 1999 - Pavia (Italy) - Ivrea, Malenco... peridotite outcrops
-- 2002 - Samani (Japan) - Horoman Peridotite Complex in Hokkaido
-- 2008 - Shasta City in California (USA) - Josephine and Trinity peridotites
-- 2014 - Marrakech (Morocco) - Beni Bousera peridotite and Middle and Anti-Atlas mantle xenoliths and ophiolites
-
+1. 1990 - Montpellier (France) - Lherz peridotite in the French Pyrenees.
+2. 1995 - Granada (Spain) - Ronda and Beni Bousera peridotites...
+3. 1999 - Pavia (Italy) - Ivrea, Malenco... peridotite outcrops
+4. 2002 - Samani (Japan) - Horoman Peridotite Complex in Hokkaido
+5. 2008 - Shasta City in California (USA) - Josephine and Trinity peridotites.
+6. 2014 - Marrakech (Morocco) - Beni Bousera peridotite and Middle and Anti-Atlas mantle xenoliths and ophiolites.
 # Practical information
 
 TODO
@@ -56,7 +53,7 @@ TODO
 
 International travellers should check the visa requirements for Spain, see https://www.spain.info/en/travel-tips/visa-passport/
 
-Please contact the Organising Committee if you require an invitation letter to obtain your visa. **Letters of invitation will only be sent to registered delegates**.
+> 🚨 Please contact the Organising Committee if you require an invitation letter to obtain your visa. **Letters of invitation will only be sent to registered delegates**.
 
 
 
@@ -66,9 +63,13 @@ TODO: General instructions plus advice.
 
 # Abstract submission
 
-The deadline for abstract submission is...TODO 
+## Deadlines
 
-Download the templates with detailed information about the size and format in the links provided below. Then, submit your abstract to john.doe@email.com. When submitting your abstract, please forward also the form (one for abstract) where you will indicate the preferred topical session, the presentation modality (oral/poster/online) and other relevant information.
+The deadline for abstract submission is...TODO
+
+## How to submit
+
+First, download the templates with detailed information about the size and format in the links provided below. Then, submit your abstract to john.doe@email.com. When submitting your abstract, please forward also the form (one for abstract) where you will indicate the preferred topical session, the presentation modality (oral/poster) and other relevant information.
 
 [Abstract template (docx)]()
 
@@ -98,15 +99,21 @@ TODO
 
 ## Pre-conference fieldtrip
 
-Mantle and high-pressure units (Opx-free granulites and eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula)
+Mantle (peridotites and pyroxenites) and adjacent high-pressure rock units (Opx-free granulites & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
+
+👉 Simplified geological map and some pictures
 
 ## Post-conference fieldtrip
 
-?
+yet to be decided
 
 # Programme & event schedule
 
-The programme will be available after the abstract submission deadline in html and pdf formats.
+The programme will be available after the abstract submission deadline to download (in pdf format) as well as a html in a link below
+
+- [download the programme in pdf]()
+
+- [access the programme in html]()
 
 ## Social activities
 

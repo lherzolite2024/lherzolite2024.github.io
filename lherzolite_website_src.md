@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-_Last update: 2021-04-17_
+_Last update: 2021-04-18_
 
 👉 Above it goes some fancy picture, meeting logo, sponsor logos,etc.
 
@@ -19,17 +19,17 @@ Website map (click where you want to go)
 
 # About
 
-The International Orogenic Lherzolite Conference aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. 
+The International Orogenic Lherzolite Conference aims to bring together specialists in mantle processes to key orogenic mantle peridotites (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. 
 
 ## History
 
 The first International Orogenic Lherzolite meeting was held in Montpellier (France) in 1990 around the Lherz peridotite outcrop in the French Pyrenees. Since then, a total of 6 Orogenic Lherzolite conferences have been held around the world:
 
 1. 1990 - Montpellier (France) - Lherz peridotite in the French Pyrenees.
-2. 1995 - Granada (Spain) - Ronda and Beni Bousera peridotites...
-3. 1999 - Pavia (Italy) - Ivrea, Malenco... peridotite outcrops
-4. 2002 - Samani (Japan) - Horoman Peridotite Complex in Hokkaido
-5. 2008 - Shasta City in California (USA) - Josephine and Trinity peridotites.
+2. 1995 - Granada (Spain) - Ronda (Betic Codillera, Spain) and Beni Bousera (Rif Mountains, Morocco) orogenic peridotites.
+3. 1999 - Pavia (Italy) - Ivrea, Malenco, Lanzo, Erro-Tobio peridotite outcrops
+4. 2002 - Samani (Japan) - Horoman Peridotite Complex in Hokkaido, deep-seated plutonic and metamorphic rocks of the Hidaka Metamorphic Belt, Hayachine and Miyamori ultramafic complexes (Kitakami mountains, NE Honshu island), and deep-seated xenoliths from the Southwest Japan Arc
+5. 2008 - Shasta City, California (USA) - Josephine and Trinity (western USA) peridotites.
 6. 2014 - Marrakech (Morocco) - Beni Bousera peridotite and Middle and Anti-Atlas mantle xenoliths and ophiolites.
 # Practical information
 

@@ -1,12 +1,10 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-_Last update: 2021-04-18_
+_Last update: 2023-04-24_
 
 👉 Above it goes some fancy picture, meeting logo, sponsor logos,etc.
 
-The 7th Orogenic Lherzolite meeting will be held in June 2024 in Spain around the Cabo Ortegal massif outcrop...TODO
-
-We encourage you to submit new and exciting contributions and we kindly ask you to disseminate this information among other colleagues potentially interested.
+The 7th Orogenic Lherzolite meeting will be held in June 2024 in Spain around the Cabo Ortegal massif outcrop...TODO We encourage you to submit new and exciting contributions and we kindly ask you to disseminate this information among other colleagues potentially interested.
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -23,7 +21,7 @@ The International Orogenic Lherzolite Conference aims to bring together speciali
 
 ## History
 
-The first International Orogenic Lherzolite meeting was held in Montpellier (France) in 1990 around the Lherz peridotite outcrop in the French Pyrenees. Since then, a total of 6 Orogenic Lherzolite conferences have been held around the world:
+The first International Orogenic Lherzolite meeting was held in Montpellier (France) in 1990 around the Lherz peridotite outcrop in the French Pyrenees. Since then, a total of six Orogenic Lherzolite conferences have been held around the world:
 
 1. 1990 - Montpellier (France) - Lherz peridotite in the French Pyrenees.
 2. 1995 - Granada (Spain) - Ronda (Betic Codillera, Spain) and Beni Bousera (Rif Mountains, Morocco) orogenic peridotites.

@@ -1,15 +1,15 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-_Last update: 2023-04-24_
+Last update: 2023-05-17
 
-👉 Above it goes some fancy picture, meeting logo, sponsor logos,etc.
-
-The 7th Orogenic Lherzolite meeting will be held in June 2024 in Spain around the Cabo Ortegal massif outcrop...TODO We encourage you to submit new and exciting contributions and we kindly ask you to disseminate this information among other colleagues potentially interested.
+👉 Above it goes some fancy picture, meeting and sponsor logos,etc.
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
 > TODO 
 
+
+The 7th Orogenic Lherzolite meeting will be held in June/September 2024 in Spain around the Cabo Ortegal massif...TODO We encourage you to submit new and exciting contributions and we kindly ask you to disseminate this information among other colleagues potentially interested.
 
 Website map (click where you want to go)
 
@@ -63,11 +63,11 @@ TODO: General instructions plus advice.
 
 ## Deadlines
 
-The deadline for abstract submission is...TODO
+To be set
 
 ## How to submit
 
-First, download the templates with detailed information about the size and format in the links provided below. Then, submit your abstract to john.doe@email.com. When submitting your abstract, please forward also the form (one for abstract) where you will indicate the preferred topical session, the presentation modality (oral/poster) and other relevant information.
+Download the templates using the links provided below. They contain detailed information about the size and format. Then, submit your abstract to john.doe@email.com. When submitting the abstract, please forward also the form (one for abstract) indicating the preferred topical session, the presentation modality (oral/poster) and other relevant information.
 
 [Abstract template (docx)]()
 
@@ -75,7 +75,7 @@ First, download the templates with detailed information about the size and forma
 
 [Participation form]()
 
-Please, stay tuned about new announcements and information in the website and [@lherzolite2024](). 
+Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). 
 
 
 
@@ -97,7 +97,7 @@ TODO
 
 ## Pre-conference fieldtrip
 
-Mantle (peridotites and pyroxenites) and adjacent high-pressure rock units (Opx-free granulites & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
+Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock units (Opx-free granulites, cummulates & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
 
 👉 Simplified geological map and some pictures
 
@@ -107,7 +107,7 @@ yet to be decided
 
 # Programme & event schedule
 
-The programme will be available after the abstract submission deadline to download (in pdf format) as well as a html in a link below
+The programme will be available after the abstract submission deadline to download in pdf format and as a html in a link below
 
 - [download the programme in pdf]()
 
@@ -148,8 +148,8 @@ TODO
 
 
 ---
-
-
+Copyright © 2023 Lherzolite Team  
+*Hosted on GitHub Pages*
 
 
 

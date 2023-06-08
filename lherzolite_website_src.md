@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-05-17
+Last update: 2023-06-08
 
 👉 Above it goes some fancy picture, meeting and sponsor logos,etc.
 
@@ -8,8 +8,7 @@ Last update: 2023-05-17
 >
 > TODO 
 
-
-The 7th Orogenic Lherzolite meeting will be held in June/September 2024 in Spain around the Cabo Ortegal massif...TODO We encourage you to submit new and exciting contributions and we kindly ask you to disseminate this information among other colleagues potentially interested.
+The 7th Orogenic Lherzolite Meeting will take place in Spain in MONTH 2024 around the stunning Cabo Ortegal massif,where several mantle bodies of a few kilometres in size associated with high-pressure granulites and eclogites outcrop . Join us for this exciting event where researchers and experts in the field will gather to exchange knowledge and explore the latest advancements in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We kindly ask you to disseminate this information among colleagues who might be interested  in participating. Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to  the 7th Orogenic Lherzolite Meeting in Spain!
 
 Website map (click where you want to go)
 
@@ -45,7 +44,9 @@ TODO
 
 ### Weather
 
+TODO
 
+![climate](C:\Users\Marco\Documents\GitHub\lherzolite2024\imgs\climate.png)
 
 ### Visa information
 
@@ -67,15 +68,23 @@ To be set
 
 ## How to submit
 
-Download the templates using the links provided below. They contain detailed information about the size and format. Then, submit your abstract to john.doe@email.com. When submitting the abstract, please forward also the form (one for abstract) indicating the preferred topical session, the presentation modality (oral/poster) and other relevant information.
+To submit your abstract, please follow these steps:
 
-[Abstract template (docx)]()
+1. Download the abstract template and the participation form by clicking on the links provided below.  The templates contains detailed information about the required size and  format for your abstract.
+
+[Abstract template in Word (docx)]()
 
 [Abstract template (plain text + latex equations)]()
 
 [Participation form]()
 
-Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). 
+2. Email your completed abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please include the following information in your email:
+   - The preferred topical session: Indicate the session under which your  abstract aligns best. If applicable, mention any specific subtopic or theme within the session.
+   - Presentation modality preference: Specify whether you prefer an oral presentation or a poster presentation.
+   - Other relevant information: If there are any special requirements or additional information you would like to provide, please include it in the participation form.
+3. Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt.
+
+Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Please note that the deadline for abstract submissions is [TOSET]. Late submissions will not be accepted.
 
 
 
@@ -125,7 +134,7 @@ TODO
 
 # Sponsorship
 
-Sponsorship aims to reduce the registration fee for students and to keep the overall cost to participants at a reasonable level. For more information, please contact the organising committee at john.doe@email.com
+Sponsorship aims to reduce the registration fee for students and to keep the overall cost to participants at a reasonable level. For more information, please contact the organising committee at lherzolite2024@gmail.com
 
 # Gallery
 

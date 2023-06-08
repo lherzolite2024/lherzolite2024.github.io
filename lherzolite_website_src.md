@@ -8,7 +8,11 @@ Last update: 2023-06-08
 >
 > TODO 
 
-The 7th Orogenic Lherzolite Meeting will take place in Spain in MONTH 2024 around the stunning Cabo Ortegal massif,where several mantle bodies of a few kilometres in size associated with high-pressure granulites and eclogites outcrop . Join us for this exciting event where researchers and experts in the field will gather to exchange knowledge and explore the latest advancements in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We kindly ask you to disseminate this information among colleagues who might be interested  in participating. Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to  the 7th Orogenic Lherzolite Meeting in Spain!
+The 7th Orogenic Lherzolite Meeting will take place from xx to xx June 2024 in NW Spain around the stunning Cabo Ortegal massif. This region is known for its remarkable outcrops of a few mantle bodies, ranging in size from a few kilometers, which are associated with high-pressure granulites and eclogites.
+
+Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust.
+
+We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating. Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to  the 7th Orogenic Lherzolite Meeting in Spain , where fruitful discussions and valuable networking await!
 
 Website map (click where you want to go)
 
@@ -70,21 +74,25 @@ To be set
 
 To submit your abstract, please follow these steps:
 
-1. Download the abstract template and the participation form by clicking on the links provided below.  The templates contains detailed information about the required size and  format for your abstract.
+1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
 
 [Abstract template in Word (docx)]()
 
-[Abstract template (plain text + latex equations)]()
+[Abstract template (markdown + latex equations)]()
 
 [Participation form]()
 
-2. Email your completed abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please include the following information in your email:
+2. Email your completed abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please ensure you included the following information:
    - The preferred topical session: Indicate the session under which your  abstract aligns best. If applicable, mention any specific subtopic or theme within the session.
+   
    - Presentation modality preference: Specify whether you prefer an oral presentation or a poster presentation.
-   - Other relevant information: If there are any special requirements or additional information you would like to provide, please include it in the participation form.
-3. Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt.
+   
+   - Other relevant information: If there are any special requirements or additional information you would like to provide.
+   
 
-Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Please note that the deadline for abstract submissions is [TOSET]. Late submissions will not be accepted.
+Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt.
+
+Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Please note that the deadline for abstract submissions is [TO_SET]. Late submissions will not be accepted.
 
 
 
@@ -116,11 +124,13 @@ yet to be decided
 
 # Programme & event schedule
 
-The programme will be available after the abstract submission deadline to download in pdf format and as a html in a link below
+After the abstract submission deadline, the program will be made available for download in PDF format below along with a link for viewing it in HTML.
 
 - [download the programme in pdf]()
 
 - [access the programme in html]()
+
+- download the programme in html (to view it in the browser offline if you prefer to view it as a pdf)
 
 ## Social activities
 
@@ -134,7 +144,7 @@ TODO
 
 # Sponsorship
 
-Sponsorship aims to reduce the registration fee for students and to keep the overall cost to participants at a reasonable level. For more information, please contact the organising committee at lherzolite2024@gmail.com
+To ensure affordable participation, we offer a few sponsorships to students, aiming to reduce their registration fees. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com).
 
 # Gallery
 

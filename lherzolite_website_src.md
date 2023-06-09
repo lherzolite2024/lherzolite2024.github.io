@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-06-08
+Last update: 2023-06-09
 
 👉 Above it goes some fancy picture, meeting and sponsor logos,etc.
 
@@ -8,11 +8,11 @@ Last update: 2023-06-08
 >
 > TODO 
 
-The 7th Orogenic Lherzolite Meeting will take place from xx to xx June 2024 in NW Spain around the stunning Cabo Ortegal massif. This region is known for its remarkable outcrops of a few mantle bodies, ranging in size from a few kilometers, which are associated with high-pressure granulites and eclogites.
+The 7th Orogenic Lherzolite Meeting will take place from xx to xx June 2024 in NW Spain around the stunning Cabo Ortegal massif. This region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly harzburgites and Grt-bearing pyroxenites) associated with high-pressure (Opx-free) granulites and eclogites.
 
-Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust.
+Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating.
 
-We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating. Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to  the 7th Orogenic Lherzolite Meeting in Spain , where fruitful discussions and valuable networking await!
+Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to  the 7th Orogenic Lherzolite Meeting in Spain , where fruitful discussions and valuable networking await!
 
 Website map (click where you want to go)
 
@@ -56,7 +56,7 @@ TODO
 
 International travellers should check the visa requirements for Spain, see https://www.spain.info/en/travel-tips/visa-passport/
 
-> 🚨 Please contact the Organising Committee if you require an invitation letter to obtain your visa. **Letters of invitation will only be sent to registered delegates**.
+> If you require an invitation letter to obtain your visa please reach out to the organizing committee at  [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com). 🚨 **Letters of invitation will only be sent to registered delegates** 🚨 . 
 
 
 
@@ -92,7 +92,7 @@ To submit your abstract, please follow these steps:
 
 Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt.
 
-Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Please note that the deadline for abstract submissions is [TO_SET]. Late submissions will not be accepted.
+Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Please note that the deadline for abstract submissions is [TO_SET]. Late submissions will not be accepted. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
 
 
 
@@ -144,7 +144,7 @@ TODO
 
 # Sponsorship
 
-To ensure affordable participation, we offer a few sponsorships to students, aiming to reduce their registration fees. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com).
+To ensure affordable participation, we plan to offer a few sponsorships to students, aiming to reduce their registration fees. More information on this in the future. Stay tuned.
 
 # Gallery
 
@@ -167,7 +167,7 @@ TODO
 
 
 ---
-Copyright © 2023 Lherzolite Team  
+Copyright © 2023-2024 Lherzolite Team  
 *Hosted on GitHub Pages*
 
 

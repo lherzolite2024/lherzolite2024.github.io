@@ -165,10 +165,4 @@ TODO
 ## Contact details
 
 
-
----
-Copyright © 2023-2024 Lherzolite Team  
-*Hosted on GitHub Pages*
-
-
-
+![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/end.jpg)

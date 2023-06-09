@@ -56,7 +56,7 @@ TODO
 
 International travellers should check the visa requirements for Spain, see https://www.spain.info/en/travel-tips/visa-passport/
 
-> If you require an invitation letter to obtain your visa please reach out to the organizing committee at  [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com). 🚨 **Letters of invitation will only be sent to registered delegates** 🚨 . 
+> If you require an invitation letter to obtain your visa please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com). 🚨**Letters of invitation will only be sent to registered delegates**🚨
 
 
 
@@ -92,7 +92,7 @@ To submit your abstract, please follow these steps:
 
 Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt.
 
-Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Please note that the deadline for abstract submissions is [TO_SET]. Late submissions will not be accepted. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
+Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Late submissions will not be accepted. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
 
 
 

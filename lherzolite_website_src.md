@@ -118,6 +118,8 @@ Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock
 
 👉 Simplified geological map and some pictures
 
+![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/Ouzal_LR.jpg)
+
 ## Post-conference fieldtrip
 
 yet to be decided

@@ -1,18 +1,18 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-06-09
+Last update: 2023-06-12
 
-👉 Above it goes some fancy picture, meeting and sponsor logos,etc.
+👉 Above it goes sponsor logos,etc.
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
 > TODO 
 
-The 7th Orogenic Lherzolite Meeting will take place from xx to xx June 2024 in NW Spain around the stunning Cabo Ortegal massif. This region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly harzburgites and Grt-bearing pyroxenites) associated with high-pressure (Opx-free) granulites and eclogites.
+The 7th Orogenic Lherzolite Meeting will take place from xx to xx xxxx 2024 in NW Spain around the stunning Cabo Ortegal massif. This region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites and high-P gneisses.
 
 Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating.
 
-Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to  the 7th Orogenic Lherzolite Meeting in Spain , where fruitful discussions and valuable networking await!
+Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to  the 7th Orogenic Lherzolite Meeting in Spain, where fruitful discussions and valuable networking await!
 
 Website map (click where you want to go)
 
@@ -56,7 +56,7 @@ TODO
 
 International travellers should check the visa requirements for Spain, see https://www.spain.info/en/travel-tips/visa-passport/
 
-> If you require an invitation letter to obtain your visa please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com). 🚨**Letters of invitation will only be sent to registered delegates**🚨
+> 👉 If you require an invitation letter to obtain your visa please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com). 🚨**Letters of invitation will only be sent to registered delegates**🚨
 
 
 
@@ -130,7 +130,7 @@ After the abstract submission deadline, the program will be made available for d
 
 - [access the programme in html]()
 
-- download the programme in html (to view it in the browser offline if you prefer to view it as a pdf)
+- download the programme in html (to view it offline)
 
 ## Social activities
 

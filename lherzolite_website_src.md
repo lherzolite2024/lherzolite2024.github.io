@@ -1,14 +1,12 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-06-12
-
-👉 Above it goes sponsor logos,etc.
+Last update: 2023-06-13
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
-> TODO 
+> To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024)
 
-The 7th Orogenic Lherzolite Meeting will take place from xx to xx xxxx 2024 in NW Spain around the stunning Cabo Ortegal massif. This region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites and high-P gneisses.
+The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the stunning Cabo Ortegal massif. This region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites and high-P gneisses.
 
 Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating.
 
@@ -20,7 +18,7 @@ Website map (click where you want to go)
 
 # About
 
-The International Orogenic Lherzolite Conference aims to bring together specialists in mantle processes to key orogenic mantle peridotites (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. 
+The International Orogenic Lherzolite Conference aims to unite specialists in mantle processes to key orogenic mantle peridotite (and related rocks) outcrops worldwide. The conference provides a platform to exchange knowledge and engage in  discussions regarding the latest advancements in the processes occurring in the upper mantle and at the transition between the upper mantle and  the lower crust. Contributions typically cover a wide range of topics, including melting processes, crustal recycling, significance of mafic lithologies, metasomatism, lithosphere evolution through rejuvenation/refertilization, supra-subduction fluid/melt/deformation processes, feedbacks between deformation and melt segregation/migration, field and experimental studies on mantle/lower crust rocks deformation, geophysical imaging of the Moho transition, mantle structures and flow, or mineral resources related to mantle rocks.
 
 ## History
 
@@ -34,21 +32,21 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 6. 2014 - Marrakech (Morocco) - Beni Bousera peridotite and Middle and Anti-Atlas mantle xenoliths and ophiolites.
 # Practical information
 
-TODO
+Available soon
 
 ## Venue
 
-TODO: Info plus some pictures and a google map link & coordinates. Also public transport maps, etc.
+Available soon
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Travel advice
 
-TODO
+Available soon
 
 ### Weather
 
-TODO
+Available soon
 
 ![climate](C:\Users\Marco\Documents\GitHub\lherzolite2024\imgs\climate.png)
 
@@ -58,17 +56,15 @@ International travellers should check the visa requirements for Spain, see https
 
 > 👉 If you require an invitation letter to obtain your visa please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com). 🚨**Letters of invitation will only be sent to registered delegates**🚨
 
-
-
 ## Accommodation
 
-TODO: General instructions plus advice.
+Available soon
 
 # Abstract submission
 
 ## Deadlines
 
-To be set
+To be set: probably by the end of June 2024 (stay tuned)
 
 ## How to submit
 
@@ -76,11 +72,11 @@ To submit your abstract, please follow these steps:
 
 1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
 
-[Abstract template in Word (docx)]()
+[Abstract template in Word (docx)]() (available soon)
 
-[Abstract template (markdown + latex equations)]()
+[Abstract template (markdown + latex equations) ]()(available soon)
 
-[Participation form]()
+[Participation form]() (available soon)
 
 2. Email your completed abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please ensure you included the following information:
    - The preferred topical session: Indicate the session under which your  abstract aligns best. If applicable, mention any specific subtopic or theme within the session.
@@ -100,15 +96,15 @@ Please, stay tuned about new announcements and information in the website and in
 
 ### How to register
 
-TODO
+Available soon
 
 ### Fees and benefits
 
-TODO
+Available soon
 
 ### Cancellation policy
 
-
+Available soon
 
 # Fieldtrips
 
@@ -116,11 +112,11 @@ TODO
 
 Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock units (Opx-free granulites, cummulates & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
 
-👉 Simplified geological map and some pictures
+👉 Here it goes a simplified geological map and some pictures
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/Ouzal_LR.jpg)
 
-## Post-conference fieldtrip
+## Post-conference fieldtrip(s)
 
 yet to be decided
 
@@ -132,17 +128,15 @@ After the abstract submission deadline, the program will be made available for d
 
 - [access the programme in html]()
 
-- download the programme in html single-file (to view it offline)
+- download the programme as a single html file (for offline viewing in your favourite browser)
 
 ## Social activities
 
-TODO
+To be set up.
 
 ## Student awards
 
-TODO
-
-
+To be set up.
 
 # Sponsorship
 

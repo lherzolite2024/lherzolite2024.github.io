@@ -132,7 +132,7 @@ After the abstract submission deadline, the program will be made available for d
 
 - [access the programme in html]()
 
-- download the programme in html (to view it offline)
+- download the programme in html single-file (to view it offline)
 
 ## Social activities
 
@@ -158,7 +158,19 @@ Available soon
 
 ## Organizing Committee
 
-TODO
+[Olivier Alard](https://researchers.mq.edu.au/en/persons/olivier-alard) from Macquarie University (Australia)
+
+[Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) from University of Oviedo (Spain)
+
+[Sergio Llana-Fúnez](https://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) from University of Oviedo (Spain)
+
+[Romain Tilhac](https://romaintilhac.github.io/) from Andalusian Earth Sciences Institute (Spain)
+
+[José Alberto Padrón-Navarta](https://www.iact.ugr-csic.es/en/personal/perfil/jose-alberto-padron-navarta/) from Andalusian Earth Sciences Institute (Spain)
+
+[Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) from Université de Montpellier 2 & CNRS (France)
+
+[Basil Tikoff](https://geoscience.wisc.edu/people/tikoff-basil/) from University of Wisconsin-Madison (USA)
 
 ## Advisory committee
 

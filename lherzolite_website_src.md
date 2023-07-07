@@ -1,16 +1,16 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-06-13
+Last update: 2023-07-07
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
 > To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024)
 
-The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the stunning Cabo Ortegal massif. This region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites and high-P gneisses.
+The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the stunning Cabo Ortegal massif and the city of Oviedo. Cabo Ortegal region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites and high-P paragneisses.
 
 Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating.
 
-Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to  the 7th Orogenic Lherzolite Meeting in Spain, where fruitful discussions and valuable networking await!
+Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to the 7th Orogenic Lherzolite Meeting in Spain, where fruitful discussions and valuable networking await!
 
 Website map (click where you want to go)
 
@@ -110,9 +110,7 @@ Available soon
 
 ## Pre-conference fieldtrip
 
-Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock units (Opx-free granulites, cummulates & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
-
-👉 Here it goes a simplified geological map and some pictures
+Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock units (Garnet-bearing Opx-free granulites, cummulates & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/Ouzal_LR.jpg)
 
@@ -177,4 +175,4 @@ TODO
 
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/end.jpg)
-
+This page content is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

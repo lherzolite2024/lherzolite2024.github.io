@@ -12,8 +12,6 @@ Join us for this exciting event, where researchers and experts in the field will
 
 Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to the 7th Orogenic Lherzolite Meeting in Spain, where fruitful discussions and valuable networking await!
 
-<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cace63946/cpc900/pct/tcfff/fs100/szw448/szh189/tatRegistration%20until%201%20April%2024.%20Time%20left/tace63946/tptTime%20out/tpc900/iso2024-04-01T00:00:00" allowtransparency="true" frameborder="0" width="471" height="54"></iframe>
-
 Website map (click where you want to go)
 
 [TOC]
@@ -35,19 +33,31 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 
 # Practical information
 
-Available soon
+In a nutshell, the 7th Orogenic Lherzolite program is as follows:
+
+**Pre-Conference Excursion**:
+This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal) from September 30th to October 1st, 2024, situated in the region of Galicia in north-western Spain. We will give precise instructions on how to get to the Pre-Conference excursion later on.
+
+**Congress**:
+The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October.
+
+**Post-Conference Excursions**:
+Following the Congress, we offer the opportunity for smaller groups to embark on different short excursions such as less accessible areas of Cabo Ortegal and mantle outcrops in the Pyrenees. Please note that specific details and destinations for the post-Conference field visits are yet to be determined.
+
+> 🚨**Accommodation Information**🚨
+> Accommodation in the field will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, for the Congress in Oviedo, **participants are responsible for arranging their own accommodation**, and will not be included in the registration fee. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
 
 ## Venue
 
-Oviedo is a vibrant city in the beautiful region of Asturias, Spain. Nestled in the north-western part of the country and being the capital city of Asturias, Oviedo offers a rich blend of history, culture and modern amenities. The city is located in the picturesque Cantabrian Mountains, surrounded by lush green landscapes. With a history dating back to Roman times, Oviedo has preserved its architectural heritage while embracing contemporary development. The city has remarkable monuments that reflect its past. It is particularly renowned for its Asturian pre-Romanesque architecture style, first appeared in the 8th century, which showcases a unique and influential style from the early Middle Ages. The city is home to a number of exceptional pre-Romanesque buildings, including the Santa María del Naranco palace, the San Julián de los Prados church, the _Cámara Santa_ (Holy Chamber) or the Foncalada fountain, all of them recognized as UNESCO World Heritage sites. Also, the Gothic-style Oviedo Cathedral, dating from the 14th century, stands as an impressive example of medieval architecture. Oviedo's historic old town, known as the _Casco Antiguo_, is a maze of charming narrow streets and squares, adorned with beautiful buildings and picturesque plazas.
+[Oviedo](https://en.wikipedia.org/wiki/Oviedo) is a vibrant city in the beautiful region of Asturias, Spain. Nestled in the north-western part of the country and being the capital city of Asturias, Oviedo offers a rich blend of history, culture and modern amenities. The city is located in the picturesque Cantabrian Mountains, surrounded by lush green landscapes. It is a walkable city, allowing visitors to explore its charming streets and discover hidden gems at their leisure. The city centre offers a pedestrian-friendly environment, making it easy to navigate and ensuring that congress attendees can easily access the venue, as well as enjoy the numerous restaurants, cafes, and shops that line the streets.
 
-Moreover, Oviedo is a walkable city, allowing visitors to explore its charming streets and discover hidden gems at their leisure. The city centre offers a pedestrian-friendly environment, making it easy to navigate and ensuring that congress attendees can easily access the venue, as well as enjoy the numerous restaurants, cafes, and shops that line the streets.
+With a history dating back to Roman times, Oviedo has preserved its architectural heritage while embracing contemporary development. The city has remarkable monuments that reflect its past. It is particularly renowned for its [Asturian pre-Romanesque architecture](https://www.spain.info/en/top/asturias-pre-romanesque/) style, first appeared in the 8th century, which showcases a unique and influential style from the early Middle Ages. The city is home to a number of exceptional pre-Romanesque buildings, including the Santa María del Naranco palace, the San Julián de los Prados and San Miguel de Lillo churches, the _Cámara Santa_ (Holy Chamber) or the Foncalada fountain, all of them recognized as [UNESCO World Heritage sites](https://whc.unesco.org/en/list/312/). Also, the Gothic-style Oviedo Cathedral, dating from the 13th century and finished in the 16th century, stands as an impressive example of medieval architecture. Oviedo's historic old town, known as the _Casco Antiguo_, is a maze of charming narrow streets and squares, adorned with beautiful buildings and picturesque plazas.
 
 Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural gem which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the intricate spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The department building also houses a free of charge geology museum which constitutes an invaluable resource for the dissemination of Earth sciences.
 
 
 
-Cabo Ortegal...TODO
+Cabo Ortegal UNESCO Global Geopark...TODO
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -69,7 +79,7 @@ International travellers should check the visa requirements for Spain, see https
 
 ## Accommodation
 
-Available soon
+Recommendations available soon
 
 # Abstract submission
 
@@ -106,9 +116,11 @@ Please, stay tuned about new announcements and information in the website and in
 
 # Registration
 
+<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cace63946/cpc900/pct/tcfff/fs100/szw448/szh189/tatRegistration%20until%201%20April%2024.%20Time%20left/tace63946/tptTime%20out/tpc900/iso2024-04-01T00:00:00" allowtransparency="true" frameborder="0" width="471" height="54"></iframe>
+
 ### How to register
 
-Available soon
+Instructions available soon
 
 ### Fees and benefits
 
@@ -134,9 +146,9 @@ yet to be decided
 
 After the abstract submission deadline, the program will be made available for download in PDF format below along with a link for viewing it in HTML.
 
-- [download the programme in pdf]()
+- [download the programme in pdf]() (not yet available)
 
-- [access the programme in html]()
+- [access the programme in html]() (not yet available)
 
 - download the programme as a single html file (for offline viewing in your favourite browser)
 

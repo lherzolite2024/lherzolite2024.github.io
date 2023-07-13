@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-07-07
+Last update: 2023-07-13
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -11,6 +11,8 @@ The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 Octob
 Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating.
 
 Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to the 7th Orogenic Lherzolite Meeting in Spain, where fruitful discussions and valuable networking await!
+
+<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cace63946/cpc900/pct/tcfff/fs100/szw448/szh189/tatRegistration%20until%201%20April%2024.%20Time%20left/tace63946/tptTime%20out/tpc900/iso2024-04-01T00:00:00" allowtransparency="true" frameborder="0" width="471" height="54"></iframe>
 
 Website map (click where you want to go)
 
@@ -30,6 +32,7 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 4. 2002 - Samani (Japan) - Horoman Peridotite Complex in Hokkaido, deep-seated plutonic and metamorphic rocks of the Hidaka Metamorphic Belt, Hayachine and Miyamori ultramafic complexes (Kitakami mountains, NE Honshu island), and deep-seated xenoliths from the Southwest Japan Arc
 5. 2008 - Shasta City, California (USA) - Josephine and Trinity (western USA) peridotites.
 6. 2014 - Marrakech (Morocco) - Beni Bousera peridotite and Middle and Anti-Atlas mantle xenoliths and ophiolites.
+
 # Practical information
 
 Available soon
@@ -62,9 +65,10 @@ Available soon
 
 # Abstract submission
 
-## Deadlines
+## Deadline: 01 June 2024
 
-To be set: probably by the end of June 2024 (stay tuned)
+<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
+
 
 ## How to submit
 
@@ -74,7 +78,7 @@ To submit your abstract, please follow these steps:
 
 [Abstract template in Word (docx)]() (available soon)
 
-[Abstract template (markdown + latex equations) ]()(available soon)
+[Abstract template (markdown + latex equations)]() (available soon)
 
 [Participation form]() (available soon)
 

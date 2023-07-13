@@ -39,7 +39,15 @@ Available soon
 
 ## Venue
 
-Available soon
+Oviedo is a vibrant city in the beautiful region of Asturias, Spain. Nestled in the north-western part of the country and being the capital city of Asturias, Oviedo offers a rich blend of history, culture and modern amenities. The city is located in the picturesque Cantabrian Mountains, surrounded by lush green landscapes. With a history dating back to Roman times, Oviedo has preserved its architectural heritage while embracing contemporary development. The city has remarkable monuments that reflect its past. It is particularly renowned for its Asturian pre-Romanesque architecture style, first appeared in the 8th century, which showcases a unique and influential style from the early Middle Ages. The city is home to a number of exceptional pre-Romanesque buildings, including the Santa María del Naranco palace, the San Julián de los Prados church, the _Cámara Santa_ (Holy Chamber) or the Foncalada fountain, all of them recognized as UNESCO World Heritage sites. Also, the Gothic-style Oviedo Cathedral, dating from the 14th century, stands as an impressive example of medieval architecture. Oviedo's historic old town, known as the _Casco Antiguo_, is a maze of charming narrow streets and squares, adorned with beautiful buildings and picturesque plazas.
+
+Moreover, Oviedo is a walkable city, allowing visitors to explore its charming streets and discover hidden gems at their leisure. The city centre offers a pedestrian-friendly environment, making it easy to navigate and ensuring that congress attendees can easily access the venue, as well as enjoy the numerous restaurants, cafes, and shops that line the streets.
+
+Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural gem which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the intricate spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The department building also houses a free of charge geology museum which constitutes an invaluable resource for the dissemination of Earth sciences.
+
+
+
+Cabo Ortegal...TODO
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

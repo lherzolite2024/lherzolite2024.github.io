@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-07-13
+Last update: 2023-07-20
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -79,9 +79,11 @@ International travellers should check the visa requirements for Spain, see https
 
 ## Accommodation
 
-Recommendations available soon
+Recommendations available soon.
 
 # Abstract submission
+
+> 🚨Abstract submission is not yet open.🚨 Stay tuned!
 
 ## Deadline: 01 June 2024
 
@@ -115,6 +117,8 @@ Please, stay tuned about new announcements and information in the website and in
 
 
 # Registration
+
+🚨Registration is not yet open.🚨 Stay tuned!
 
 <iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cace63946/cpc900/pct/tcfff/fs100/szw448/szh189/tatRegistration%20until%201%20April%2024.%20Time%20left/tace63946/tptTime%20out/tpc900/iso2024-04-01T00:00:00" allowtransparency="true" frameborder="0" width="471" height="54"></iframe>
 
@@ -198,5 +202,6 @@ TODO
 
 
 
+This website content is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/end.jpg)
-This page content is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

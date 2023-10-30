@@ -21,7 +21,7 @@ You can also use the LaTeX inline mode $y=x^2$. For units, please follow the rec
 
 Abstracts will be reviewed by the Scientific Committee, who will decide about the direct acceptation of the abstract, provide advice for modifications or reject in case that they consider that an abstract has not have sufficient quality or do not fit within the broad topics of the meeting.
 
-![Figure 1](C:\Users\Marco\Documents\GitHub\lherzolite2024.github.io\templates\img221.png)
+![Figure 1](https://github.com/lherzolite2024/lherzolite2024.github.io/blob/v1.0/templates/img221.png?raw=true)
 
 _Figure 1. A sine wave_
 

@@ -95,9 +95,9 @@ To submit your abstract, please follow these steps:
 
 1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
 
-[Abstract template in Word (docx)](https://github.com/abc25204-e4a3-42d6-bbcd-9c0d6f760e78) 
+[Abstract template in Word (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
 
-[Abstract template (markdown + latex equations)](https://github.com/c464316a-c86b-4198-95b9-d3eae72f9a57)
+[Abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
 
 [Participation form]() (available soon)
 

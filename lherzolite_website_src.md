@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-10-09
+Last update: 2023-10-30
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -38,8 +38,10 @@ In a nutshell, the 7th Orogenic Lherzolite program is as follows:
 **Pre-Conference Excursion**:
 This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st 2024.  On the 29th of September we will already be staying in the surroundings of the Geopark. One day of the excursion will be devoted entirely to the mantle section (harzburgites and pyroxenites), while the other day will be devoted to the other high-pressure section adjacent to the mantle, including "pyrigarnites" and hornblendites, Opx-free granulites and eclogites. We will give precise instructions on how to get to the Pre-Conference excursion later on.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 **Congress**:
-The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. TODO
+The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. More info soon.
 
 **Post-Conference Excursions**:
 Following the Congress, we offer the opportunity for smaller groups to embark on different short excursions such as less accessible areas of the Cabo Ortegal massif and mantle outcrops in the Pyrenees. Please note that specific details and destinations for the post-Conference field visits are yet to be determined.
@@ -55,11 +57,8 @@ With a history dating back to Roman times, Oviedo has preserved its architectura
 
 Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural gem which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the intricate spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The departmental building also houses a free geology museum, a mainstay of geoscience outreach in the region.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11602.802004357252!2d-5.8670414!3d43.362375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1698706057461!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-
-Cabo Ortegal UNESCO Global Geopark...TODO
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Travel advice
 
@@ -96,9 +95,9 @@ To submit your abstract, please follow these steps:
 
 1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
 
-[Abstract template in Word (docx)]() (available soon)
+[Abstract template in Word (docx)](https://github.com/abc25204-e4a3-42d6-bbcd-9c0d6f760e78) 
 
-[Abstract template (markdown + latex equations)]() (available soon)
+[Abstract template (markdown + latex equations)](https://github.com/c464316a-c86b-4198-95b9-d3eae72f9a57)
 
 [Participation form]() (available soon)
 

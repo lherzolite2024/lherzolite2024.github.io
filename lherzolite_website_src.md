@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-10-30
+Last update: 2023-12-04
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -41,7 +41,7 @@ This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Glo
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Congress**:
-The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. More info soon.
+The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. The venue for the three days will be the historic building of the University of Oviedo, located in the historic centre of the city, see https://maps.app.goo.gl/ojD2kPbDYgfMfb997 (Latitude 43.362042, Longitude -5.8463)
 
 **Post-Conference Excursions**:
 Following the Congress, we offer the opportunity for smaller groups to embark on different short excursions such as less accessible areas of the Cabo Ortegal massif and mantle outcrops in the Pyrenees. Please note that specific details and destinations for the post-Conference field visits are yet to be determined.
@@ -57,28 +57,50 @@ With a history dating back to Roman times, Oviedo has preserved its architectura
 
 Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural gem which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the intricate spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The departmental building also houses a free geology museum, a mainstay of geoscience outreach in the region.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11602.802004357252!2d-5.8670414!3d43.362375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1698706057461!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5801.427761162407!2d-5.850055306236552!3d43.36209140653389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd368d1d7cf7aa7d%3A0xadc2f27b2a87f9dc!2sUniversidad%20de%20Oviedo!5e0!3m2!1ses!2ses!4v1701680466227!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## Travel advice
 
 Available soon
 
+### How to get to Oviedo
+
+TODO
+
 ### Weather
 
 Available soon
 
-![climate](C:\Users\Marco\Documents\GitHub\lherzolite2024\imgs\climate.png)
+![climate](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/climate.png)
 
 ### Visa information
 
 International travellers should check the visa requirements for Spain, see https://www.spain.info/en/travel-tips/visa-passport/
 
-> 👉 If you require an invitation letter to obtain your visa please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com). 🚨**Letters of invitation will only be sent to registered delegates**🚨
+> 👉 If you require an invitation letter to obtain your visa please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
+>
+> ⚠️ **Letters of invitation will only be sent to registered delegates**.
 
 ## Accommodation
 
-Recommendations available soon.
+> ⚠️ For field trips, accommodation **is included** in the fee and managed by the organisation. You **do not** need to do anything.
+
+The hotels closest to the Historic Building of the University of Oviedo, where the meeting will take place, are listed below.
+
+**Less than 1 minute walk**:
+
+[Hotel NH Oviedo Principado](https://www.nh-hotels.com/en/hotel/nh-oviedo-principado) (⭐⭐⭐⭐) Calle San Francisco 6, +34 985 217 792
+
+**Less than 5 minute walk**:
+
+[Hotel Soho Boutique Oviedo](https://www.sohohoteles.com/destinos/hotel-soho-boutique-oviedo-3/)  (⭐⭐⭐) Calle Mendizábal 1, +34 985 209 396
+
+[Hotel & Spa Princesa Munia](https://www.hotelprincesamunia.com/) (⭐⭐⭐⭐) Calle Fruela 6, +34 984 285 580
+
+TODO
+
+There are many more accommodations (hotels, appartments, etc.) to choose from in the city. The public bus network works well and the city is pleasant to walk around.
 
 # Abstract submission
 

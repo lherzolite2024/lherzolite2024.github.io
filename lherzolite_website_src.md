@@ -62,11 +62,23 @@ Lastly, the building that houses the geology studies of the University of Oviedo
 
 ## Travel advice
 
-Available soon
+
 
 ### How to get to Oviedo
 
-TODO
+**By Plane**
+
+[Asturias Airport](https://www.aena.es/en/asturias.html) is located [40 km from Oviedo](https://www.google.com/maps/dir/?api=1&destination=43.56268519312678,%20-6.033475003792474). Asturias Airport has flights to and from London, Amsterdam (Schiphol), Brussels, Lisbon, Milan and Rome, Basel and Zurich, as well as several destinations in Germany. Within Spain, there are flights to Madrid, Barcelona, Valencia, Malaga, Alicante, Palma de Mallorca, Seville and the Canary Islands. Check out the routes on the following websites of the various operating airlines: [Vueling airlines](https://www.vueling.com/en/) (Barcelona, Paris, London, Palma de Mallorca, Amsterdam, etc.), [Volotea](https://www.volotea.com/en/) (Barcelona, Lisbon, Malaga, Milan, Seville, etc.), [Iberia](https://www.iberia.com/es/?language=en) (Madrid), [Ryanair](https://www.ryanair.com/gb/en) (Brussels, London, Düsseldorf, Rome), [Air Nostrum](http://www.airnostrum.es/home.asp?idioma=2) (Madrid). Although the most common way to enter Spain is via Madrid or Barcelona, don't forget to check out airports such as Malaga, Palma de Mallorca or Lisbon, as you can sometimes find much cheaper connections.
+
+The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA company](https://www.alsa.es/). The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to local buses and taxis. Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about half an hour and can be somewhat economical if you share the journey with other travellers.
+
+**By Train**
+
+Oviedo train station (Calle Pepe Cosmén) is located on the close to the city centre and there are many local bus connections nearby. There is also a taxi rank outside the station. Oviedo is directly linked to Madrid by the ALVIA high-speed train (journey<3:30h) with various daily connections, see here: https://www.renfe.com/es/en
+
+**By Bus/Coach**
+
+There are coach routes to most towns in Asturias and the North of Spain, as well as Madrid and some other Spanish large cities. Check routes in https://www.alsa.com/en/web/bus/home
 
 ### Weather
 

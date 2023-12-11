@@ -63,15 +63,11 @@ Lastly, the building that houses the geology studies of the University of Oviedo
 
 ## Travel advice
 
-
-
 ### How to get to Oviedo
 
 #### By Plane
 
 [Asturias Airport](https://www.aena.es/en/asturias.html) is located [40 kilometres from Oviedo](https://www.google.com/maps/dir/?api=1&destination=43.56268519312678,%20-6.033475003792474) and offers direct flights to several European cities and destinations within Spain. Check the routes on the websites of the various operating airlines:
-
- has flights to and from London, Amsterdam (Schiphol), Brussels, Lisbon, Milan and Rome, Basel and Zurich, as well as several destinations in Germany. Within Spain, there are flights to Madrid, Barcelona, Valencia, Malaga, Alicante, Palma de Mallorca, Seville and the Canary Islands.
 
 - [Vueling airlines](https://www.vueling.com/en/) (Barcelona, Paris, London, Palma de Mallorca, Amsterdam, etc.)
 

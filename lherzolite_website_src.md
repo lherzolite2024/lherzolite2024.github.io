@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-12-04
+Last update: 2023-12-11
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -18,7 +18,7 @@ Website map (click where you want to go)
 
 # About
 
-The International Orogenic Lherzolite Conference aims to unite specialists in mantle processes to key orogenic mantle peridotite (and related rocks) outcrops worldwide. The conference provides a platform to exchange knowledge and engage in  discussions regarding the latest advancements in the processes occurring in the upper mantle and at the transition between the upper mantle and  the lower crust. Contributions typically cover a wide range of topics, including melting processes, crustal recycling, significance of mafic lithologies, metasomatism, lithosphere evolution through rejuvenation/refertilization, supra-subduction fluid/melt/deformation processes, feedbacks between deformation and melt segregation/migration, field and experimental studies on mantle/lower crust rocks deformation, geophysical imaging of the Moho transition, mantle structures and flow, or mineral resources related to mantle rocks.
+The International Orogenic Lherzolite Conference aims to unite specialists in mantle processes to key orogenic mantle peridotite (and related rocks) outcrops worldwide. The conference provides a platform to exchange knowledge and engage in discussions regarding the latest advancements in the processes occurring in the upper mantle and at the transition between the upper mantle and the lower crust. Contributions typically cover a wide range of topics, including melting processes, crustal recycling, significance of mafic lithologies, metasomatism, lithosphere evolution through rejuvenation and refertilization, supra-subduction fluid/melt/deformation processes, feedbacks between deformation and melt segregation/migration, field and experimental studies on mantle/lower crust rocks deformation, geophysical imaging of the Moho transition, mantle structures and flow, or mineral resources related to mantle rocks.
 
 ## History
 
@@ -44,10 +44,11 @@ This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Glo
 The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. The venue for the three days will be the historic building of the University of Oviedo, located in the historic centre of the city, see https://maps.app.goo.gl/ojD2kPbDYgfMfb997 (Latitude 43.362042, Longitude -5.8463)
 
 **Post-Conference Excursions**:
-Following the Congress, we offer the opportunity for smaller groups to embark on different short excursions such as less accessible areas of the Cabo Ortegal massif and mantle outcrops in the Pyrenees. Please note that specific details and destinations for the post-Conference field visits are yet to be determined.
+Following the Congress, we offer the opportunity for smaller groups to embark on different short excursions such as less accessible areas of the Cabo Ortegal massif and mantle outcrops in the Pyrenees. Please note that specific details and destinations for the post-Conference field visits are **yet to be determined**.
 
 > 🚨**Accommodation Information**🚨
-> Accommodation in the field trips will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, for the congress in Oviedo, accommodation will not be included in the registration fee and **participants are responsible for arranging their own accommodation**. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
+>
+> Accommodation in the field trips will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, for the congress in Oviedo, accommodation is not included in the registration fee and **participants are responsible for arranging their own accommodation**. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
 
 ## Venue
 
@@ -66,19 +67,33 @@ Lastly, the building that houses the geology studies of the University of Oviedo
 
 ### How to get to Oviedo
 
-**By Plane**
+#### By Plane
 
-[Asturias Airport](https://www.aena.es/en/asturias.html) is located [40 km from Oviedo](https://www.google.com/maps/dir/?api=1&destination=43.56268519312678,%20-6.033475003792474). Asturias Airport has flights to and from London, Amsterdam (Schiphol), Brussels, Lisbon, Milan and Rome, Basel and Zurich, as well as several destinations in Germany. Within Spain, there are flights to Madrid, Barcelona, Valencia, Malaga, Alicante, Palma de Mallorca, Seville and the Canary Islands. Check out the routes on the following websites of the various operating airlines: [Vueling airlines](https://www.vueling.com/en/) (Barcelona, Paris, London, Palma de Mallorca, Amsterdam, etc.), [Volotea](https://www.volotea.com/en/) (Barcelona, Lisbon, Malaga, Milan, Seville, etc.), [Iberia](https://www.iberia.com/es/?language=en) (Madrid), [Ryanair](https://www.ryanair.com/gb/en) (Brussels, London, Düsseldorf, Rome), [Air Nostrum](http://www.airnostrum.es/home.asp?idioma=2) (Madrid). Although the most common way to enter Spain is via Madrid or Barcelona, don't forget to check out airports such as Malaga, Palma de Mallorca or Lisbon, as you can sometimes find much cheaper connections.
+[Asturias Airport](https://www.aena.es/en/asturias.html) is located [40 kilometres from Oviedo](https://www.google.com/maps/dir/?api=1&destination=43.56268519312678,%20-6.033475003792474) and offers direct flights to several European cities and destinations within Spain. Check the routes on the websites of the various operating airlines:
 
-The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA company](https://www.alsa.es/). The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to local buses and taxis. Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about half an hour and can be somewhat economical if you share the journey with other travellers.
+ has flights to and from London, Amsterdam (Schiphol), Brussels, Lisbon, Milan and Rome, Basel and Zurich, as well as several destinations in Germany. Within Spain, there are flights to Madrid, Barcelona, Valencia, Malaga, Alicante, Palma de Mallorca, Seville and the Canary Islands.
 
-**By Train**
+- [Vueling airlines](https://www.vueling.com/en/) (Barcelona, Paris, London, Palma de Mallorca, Amsterdam, etc.)
 
-Oviedo train station (Calle Pepe Cosmén) is located on the close to the city centre and there are many local bus connections nearby. There is also a taxi rank outside the station. Oviedo is directly linked to Madrid by the ALVIA high-speed train (journey<3:30h) with various daily connections, see here: https://www.renfe.com/es/en
+- [Volotea](https://www.volotea.com/en/) (Barcelona, Lisbon, Malaga, Milan, Seville, etc.)
 
-**By Bus/Coach**
+- [Iberia](https://www.iberia.com/es/?language=en) (Madrid)
 
-There are coach routes to most towns in Asturias and the North of Spain, as well as Madrid and some other Spanish large cities. Check routes in https://www.alsa.com/en/web/bus/home
+- [Ryanair](https://www.ryanair.com/gb/en) (Brussels, London, Düsseldorf, Rome)
+
+- [Air Nostrum](http://www.airnostrum.es/home.asp?idioma=2) (Madrid)
+
+Although the most common way to enter Spain is via Madrid or Barcelona, don't forget to check out airports such as Malaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find much cheaper connections.
+
+The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA bus company](https://www.alsa.es/). Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to local buses and taxis. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about 30 minutes and can be somewhat economical if you share the journey with other travellers.
+
+#### By Train
+
+[Oviedo north train station](https://maps.app.goo.gl/bNNZqo8t1XmX1D9f8) (Calle Pepe Cosmén) is located on the close to the city centre and there are many local bus connections nearby. There is also a taxi rank outside the station. Oviedo is directly linked to Madrid by the ALVIA high-speed train (journey<3:30h) with various daily connections, see here: https://www.renfe.com/es/en
+
+#### By Bus/Coach
+
+There are bus routes to most towns in Asturias and the North of Spain, as well as Madrid and some other Spanish large cities. Check routes in https://www.alsa.com/en/web/bus/home
 
 ### Weather
 
@@ -129,9 +144,9 @@ To submit your abstract, please follow these steps:
 
 1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
 
-[Abstract template in Word (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
+Download the [Abstract template in Word (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
 
-[Abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
+Download the [Abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
 
 [Participation form]() (available soon)
 
@@ -153,7 +168,7 @@ Please, stay tuned about new announcements and information in the website and in
 
 🚨Registration is not yet open.🚨 Stay tuned!
 
-<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cace63946/cpc900/pct/tcfff/fs100/szw448/szh189/tatRegistration%20until%201%20April%2024.%20Time%20left/tace63946/tptTime%20out/tpc900/iso2024-04-01T00:00:00" allowtransparency="true" frameborder="0" width="471" height="54"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
 
 ### How to register
 
@@ -174,6 +189,8 @@ Available soon
 Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock units (Garnet-bearing Opx-free granulites, cummulates & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/Ouzal_LR.jpg)
+
+TODO
 
 ## Post-conference fieldtrip(s)
 

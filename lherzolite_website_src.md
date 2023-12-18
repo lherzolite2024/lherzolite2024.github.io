@@ -123,13 +123,13 @@ The are several hotels closest to the Historic Building of the University of Ovi
 
 [Exe hotel El Magistral](https://www.eurostarshotels.co.uk/exe-hotel-el-magistral.html) (⭐⭐⭐)
 
-Hotel Fruela
+[Hotel Fruela](https://www.hotelfruela.com/en/) (⭐⭐⭐)
 
-Hotel Campoamor
+[Hotel Campoamor](http://www.hotelcampoamoroviedo.com/en/) (⭐⭐⭐⭐)
 
-Gran Hotel España
+[Gran Hotel España](https://www.granhotelespana.es/en/) (⭐⭐⭐⭐)
 
-Gran Hotel Regente
+[Hotel Gran Regente](https://www.granhotelregente.com/en/) (⭐⭐⭐⭐)
 
 Note that most are located in the historic city centre and will therefore be more expensive than other options located further afield. There are plenty more accommodations (hotels, apartments, etc.) to choose from in the city, both within the historic centre and outside. The public city bus network works well and the city is pleasant to walk around.
 
@@ -202,11 +202,11 @@ yet to be decided
 
 After the abstract submission deadline, the program will be made available for download in PDF format below along with a link for viewing it in HTML.
 
-- [download the programme in pdf]() (not yet available)
+- [programme in pdf]() (not yet available)
 
 - [access the programme in html]() (not yet available)
 
-- download the programme as a single html file (for offline viewing in your favourite browser)
+- [download the programme as a single html file]() (for offline viewing in your favourite browser)
 
 ## Social activities
 

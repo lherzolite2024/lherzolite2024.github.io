@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-12-11
+Last update: 2023-12-18
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
 > To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024)
 
-The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the stunning Cabo Ortegal massif and the city of Oviedo. Cabo Ortegal region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly serpentinized harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites, and high-P paragneisses.
+The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the stunning Cabo Ortegal complex and the city of Oviedo. Cabo Ortegal region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly serpentinized harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites, and high-P paragneisses.
 
 Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating.
 
@@ -67,29 +67,29 @@ Lastly, the building that houses the geology studies of the University of Oviedo
 
 #### By Plane
 
-[Asturias Airport](https://www.aena.es/en/asturias.html) is located [40 kilometres from Oviedo](https://www.google.com/maps/dir/?api=1&destination=43.56268519312678,%20-6.033475003792474) and offers direct flights to several European cities and destinations within Spain. Check the routes on the websites of the various operating airlines:
+[Asturias Airport](https://www.aena.es/en/asturias.html) is located [40 kilometres from Oviedo](https://www.google.com/maps/dir/?api=1&destination=43.56268519312678,%20-6.033475003792474) and offers direct flights to several European cities and destinations within Spain. Check the routes on the websites of the following operating airlines:
 
-- [Vueling airlines](https://www.vueling.com/en/) (Barcelona, Paris, London, Palma de Mallorca, Amsterdam, etc.)
+- [Vueling airlines](https://www.vueling.com/en/) (connections to Barcelona, Paris, London, Palma de Mallorca, Amsterdam, etc.)
 
-- [Volotea](https://www.volotea.com/en/) (Barcelona, Lisbon, Malaga, Milan, Seville, etc.)
+- [Volotea](https://www.volotea.com/en/) (connections to Barcelona, Lisbon, Malaga, Milan, Seville, etc.)
 
-- [Iberia](https://www.iberia.com/es/?language=en) (Madrid)
+- [Iberia](https://www.iberia.com/es/?language=en) (connections to Madrid)
 
-- [Ryanair](https://www.ryanair.com/gb/en) (Brussels, London, Düsseldorf, Rome)
+- [Ryanair](https://www.ryanair.com/gb/en) (connections to Brussels, London, Düsseldorf, Rome)
 
-- [Air Nostrum](http://www.airnostrum.es/home.asp?idioma=2) (Madrid)
+- [Air Nostrum](http://www.airnostrum.es/home.asp?idioma=2) (connections to Madrid)
 
-Although the most common way to enter Spain is via Madrid or Barcelona, don't forget to check out airports such as Malaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find much cheaper connections.
+Although the most common way to enter Spain from outside europe is via Madrid or Barcelona, don't forget to check out airports such as Malaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find much cheaper connections. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
 
-The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA bus company](https://www.alsa.es/). Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to local buses and taxis. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about 30 minutes and can be somewhat economical if you share the journey with other travellers.
+The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA bus company](https://www.alsa.es/). Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to city buses and taxis. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about 30 minutes and can be somewhat economical if you share the journey with other travellers.
 
 #### By Train
 
-[Oviedo north train station](https://maps.app.goo.gl/bNNZqo8t1XmX1D9f8) (Calle Pepe Cosmén) is located on the close to the city centre and there are many local bus connections nearby. There is also a taxi rank outside the station. Oviedo is directly linked to Madrid by the ALVIA high-speed train (journey<3:30h) with various daily connections, see here: https://www.renfe.com/es/en
+[Oviedo north train station](https://maps.app.goo.gl/bNNZqo8t1XmX1D9f8) is located on the close to the city centre and there are many city bus connections nearby. There is also a taxi rank outside the station. Oviedo is directly linked to Madrid with various daily connections by the ALVIA high-speed train (journey < 3:30h), more information here: https://www.renfe.com/es/en
 
 #### By Bus/Coach
 
-There are bus routes to most towns in Asturias and the North of Spain, as well as Madrid and some other Spanish large cities. Check routes in https://www.alsa.com/en/web/bus/home
+There are bus lines between major cities in Spain (Madrid, Barcelona, Bilbao, etc.) and to the city of Oviedo. Check routes in https://www.alsa.com/en/web/bus/home
 
 ### Weather
 
@@ -109,21 +109,29 @@ International travellers should check the visa requirements for Spain, see https
 
 > ⚠️ For field trips, accommodation **is included** in the fee and managed by the organisation. You **do not** need to do anything.
 
-The hotels closest to the Historic Building of the University of Oviedo, where the meeting will take place, are listed below.
+The are several hotels closest to the Historic Building of the University of Oviedo, where the meeting will take place. Some are listed below.
 
 **Less than 1 minute walk**:
 
-[Hotel NH Oviedo Principado](https://www.nh-hotels.com/en/hotel/nh-oviedo-principado) (⭐⭐⭐⭐) Calle San Francisco 6, +34 985 217 792
+[Hotel NH Oviedo Principado](https://www.nh-hotels.com/en/hotel/nh-oviedo-principado) (⭐⭐⭐⭐)
 
 **Less than 5 minute walk**:
 
-[Hotel Soho Boutique Oviedo](https://www.sohohoteles.com/destinos/hotel-soho-boutique-oviedo-3/)  (⭐⭐⭐) Calle Mendizábal 1, +34 985 209 396
+[Hotel Soho Boutique Oviedo](https://www.sohohoteles.com/destinos/hotel-soho-boutique-oviedo-3/)  (⭐⭐⭐)
 
-[Hotel & Spa Princesa Munia](https://www.hotelprincesamunia.com/) (⭐⭐⭐⭐) Calle Fruela 6, +34 984 285 580
+[Hotel & Spa Princesa Munia](https://www.hotelprincesamunia.com/) (⭐⭐⭐⭐)
 
-TODO
+[Exe hotel El Magistral](https://www.eurostarshotels.co.uk/exe-hotel-el-magistral.html) (⭐⭐⭐)
 
-There are many more accommodations (hotels, appartments, etc.) to choose from in the city. The public bus network works well and the city is pleasant to walk around.
+Hotel Fruela
+
+Hotel Campoamor
+
+Gran Hotel España
+
+Gran Hotel Regente
+
+Note that most are located in the historic city centre and will therefore be more expensive than other options located further afield. There are plenty more accommodations (hotels, apartments, etc.) to choose from in the city, both within the historic centre and outside. The public city bus network works well and the city is pleasant to walk around.
 
 # Abstract submission
 
@@ -140,11 +148,11 @@ To submit your abstract, please follow these steps:
 
 1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
 
-Download the [Abstract template in Word (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
+Download the [Word abstract template (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
 
-Download the [Abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
+Download the [Plain text abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
 
-[Participation form]() (available soon)
+Download the [Participation form]() (available soon)
 
 2. Email your completed abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please ensure you included the following information:
    - The preferred topical session: Indicate the session under which your  abstract aligns best. If applicable, mention any specific subtopic or theme within the session.
@@ -154,11 +162,9 @@ Download the [Abstract template (markdown + latex equations)](https://github.com
    - Other relevant information: If there are any special requirements or additional information you would like to provide.
    
 
-Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt.
+Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt. Please be patient, the response is not automated and will not be immediate, so please wait at least 24 hours before contacting us again if you suspect your email has not reached us.
 
 Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Late submissions will not be accepted. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
-
-
 
 # Registration
 
@@ -244,7 +250,7 @@ TODO
 
 ## Contact details
 
-TODO
+email: [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
 
 
 

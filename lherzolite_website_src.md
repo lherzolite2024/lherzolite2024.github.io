@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-12-18
+Last update: 2023-12-21
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -56,7 +56,7 @@ Following the Congress, we offer the opportunity for smaller groups to embark on
 
 With a history dating back to Roman times, Oviedo has preserved its architectural heritage while embracing contemporary development. The city has remarkable monuments that reflect its past. It is particularly renowned for its [Asturian pre-Romanesque architecture](https://www.spain.info/en/top/asturias-pre-romanesque/) style, first appeared in the 8th century, which showcases a unique and influential style from the early Middle Ages. The city is home to a number of exceptional pre-Romanesque buildings, including the Santa María del Naranco palace, the San Julián de los Prados and San Miguel de Lillo churches, the _Cámara Santa_ (Holy Chamber) or the Foncalada fountain, all of them recognized as [UNESCO World Heritage sites](https://whc.unesco.org/en/list/312/). Also, the Gothic-style Oviedo Cathedral, built between the centuries 13th and 16th, stands as an impressive example of medieval architecture. Oviedo's historic old town, known as the _Casco Antiguo_, is a maze of narrow streets and squares, adorned with beautiful buildings and picturesque plazas.
 
-Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural gem which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the intricate spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The departmental building also houses a free geology museum, a mainstay of geoscience outreach in the region.
+Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural gem which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The departmental building also houses a free geology museum, a mainstay of geoscience outreach in the region.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5801.427761162407!2d-5.850055306236552!3d43.36209140653389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd368d1d7cf7aa7d%3A0xadc2f27b2a87f9dc!2sUniversidad%20de%20Oviedo!5e0!3m2!1ses!2ses!4v1701680466227!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -79,9 +79,9 @@ Lastly, the building that houses the geology studies of the University of Oviedo
 
 - [Air Nostrum](http://www.airnostrum.es/home.asp?idioma=2) (connections to Madrid)
 
-Although the most common way to enter Spain from outside europe is via Madrid or Barcelona, don't forget to check out airports such as Malaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find much cheaper connections. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
-
 The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA bus company](https://www.alsa.es/). Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to city buses and taxis. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about 30 minutes and can be somewhat economical if you share the journey with other travellers.
+
+> 👉 Although the most common way to enter Spain from outside europe is via Madrid or Barcelona to connect with Oviedo, don't forget to check out airports such as Malaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find much cheaper connections. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
 
 #### By Train
 
@@ -89,11 +89,13 @@ The cheapest way to get to Oviedo from the airport is by bus (9€) with the [AL
 
 #### By Bus/Coach
 
-There are bus lines between major cities in Spain (Madrid, Barcelona, Bilbao, etc.) and to the city of Oviedo. Check routes in https://www.alsa.com/en/web/bus/home
+There are bus lines between major cities in Spain (Madrid, Barcelona, Bilbao, etc.) and Oviedo. Check routes in https://www.alsa.com/en/web/bus/home
 
 ### Weather
 
-Available soon
+Oviedo has a Cfb oceanic climate. Temperatures in October are mild, usually between 10 and 19ºC, and it commonly rains on a third of the days in the month (although in recent years there has been a trend towards sunnier than usual Octobers). Humidity is generally high, between 75 and 80%.
+
+Regarding Cabo Ortegal, temperatures are also mild in autumn (for reference, see the temperature chart below for the city of A Coruña, 60 km from Cabo Ortegal). Due to the peculiar orography of the area, with cliffs of more than 600 metres next to the sea, the weather can be very variable, even on the same day, and fog is not uncommon. Be prepared for changeable weather. The wind can be quite strong at times in the higher parts of the park.
 
 ![climate](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/climate.png)
 
@@ -148,11 +150,11 @@ To submit your abstract, please follow these steps:
 
 1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
 
-Download the [Word abstract template (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
+   - Download the [Word abstract template (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
 
-Download the [Plain text abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
+   - Download the [Plain text abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
 
-Download the [Participation form]() (available soon)
+   - Download the [Participation form]() (available soon)
 
 2. Email your completed abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please ensure you included the following information:
    - The preferred topical session: Indicate the session under which your  abstract aligns best. If applicable, mention any specific subtopic or theme within the session.

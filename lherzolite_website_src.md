@@ -81,11 +81,11 @@ Lastly, the building that houses the geology studies of the University of Oviedo
 
 The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA bus company](https://www.alsa.es/). Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to city buses and taxis. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about 30 minutes and can be somewhat economical if you share the journey with other travellers.
 
-> 👉 Although the most common way to enter Spain from outside europe is via Madrid or Barcelona to connect with Oviedo, don't forget to check out airports such as Malaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find much cheaper connections. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
+> 👉 Although the most common way to enter Spain from outside europe is via Madrid or Barcelona and then find a connection to Oviedo, don't forget to check out airports such as Malaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find cheaper connections directly with Asturias Airport. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
 
 #### By Train
 
-[Oviedo north train station](https://maps.app.goo.gl/bNNZqo8t1XmX1D9f8) is located on the close to the city centre and there are many city bus connections nearby. There is also a taxi rank outside the station. Oviedo is directly linked to Madrid with various daily connections by the ALVIA high-speed train (journey < 3:30h), more information here: https://www.renfe.com/es/en
+[Oviedo north train station](https://maps.app.goo.gl/bNNZqo8t1XmX1D9f8) is located close to the city centre and there are many city bus connections nearby. There is also a taxi rank outside the station. Oviedo is directly linked to Madrid by the ALVIA high-speed train with various daily connections (journey < 3:30h), more information here: https://www.renfe.com/es/en
 
 #### By Bus/Coach
 
@@ -93,9 +93,9 @@ There are bus lines between major cities in Spain (Madrid, Barcelona, Bilbao, et
 
 ### Weather
 
-Oviedo has a Cfb oceanic climate. Temperatures in October are mild, usually between 10 and 19ºC, and it commonly rains on a third of the days in the month (although in recent years there has been a trend towards sunnier than usual Octobers). Humidity is generally high, between 75 and 80%.
+Oviedo has a Cfb oceanic climate. Temperatures in October are usually mild, between 10 and 19ºC, and it commonly rains on a third of the days in the month (although in recent years there has been a trend towards sunnier than usual Octobers). Humidity is generally high, between 75 and 80%.
 
-Regarding Cabo Ortegal, temperatures are also mild in autumn (for reference, see the temperature chart below for the city of A Coruña, 60 km from Cabo Ortegal). Due to the peculiar orography of the area, with cliffs of more than 600 metres next to the sea, the weather can be very variable, even on the same day, and fog is not uncommon. Be prepared for changeable weather. The wind can be quite strong at times in the higher parts of the park.
+Regarding Cabo Ortegal, temperatures are also mild in autumn (for reference, see the temperature chart below for the city of A Coruña, 60 km from Cabo Ortegal). Due to the peculiar orography of the area, with cliffs of more than 600 metres next to the sea, the weather can be very variable, even on the same day, and fog is not uncommon. Be prepared for changeable weather. The wind can be quite strong at times in the higher parts of the geopark.
 
 ![climate](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/climate.png)
 

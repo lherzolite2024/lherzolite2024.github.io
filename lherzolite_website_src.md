@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2023-12-21
+Last update: 2024-01-19
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
-> To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024)
+> To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024) or <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a>
 
 The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the stunning Cabo Ortegal complex and the city of Oviedo. Cabo Ortegal region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly serpentinized harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites, and high-P paragneisses.
 
@@ -81,7 +81,7 @@ Lastly, the building that houses the geology studies of the University of Oviedo
 
 The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA bus company](https://www.alsa.es/). Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to city buses and taxis. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about 30 minutes and can be somewhat economical if you share the journey with other travellers.
 
-> 👉 Although the most common way to enter Spain from outside europe is via Madrid or Barcelona and then find a connection to Oviedo, don't forget to check out airports such as Malaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find cheaper connections directly with Asturias Airport. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
+> 👉 Although the most common way to enter Spain from outside europe is via Madrid or Barcelona and then find a connection to Oviedo, don't forget to check out airports such as Málaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find cheaper connections with Asturias Airport. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
 
 #### By Train
 
@@ -164,13 +164,13 @@ To submit your abstract, please follow these steps:
    - Other relevant information: If there are any special requirements or additional information you would like to provide.
    
 
-Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt. Please be patient, the response is not automated and will not be immediate, so please wait at least 24 hours before contacting us again if you suspect your email has not reached us.
+Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt. Be patient, the response is not automated and will not be immediate, so please wait at least 24 hours before contacting us again if you suspect your email has not reached us.
 
 Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Late submissions will not be accepted. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
 
 # Registration
 
-🚨Registration is not yet open.🚨 Stay tuned!
+> 🚨Registration is not yet open.🚨 Stay tuned!
 
 <iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
 
@@ -220,7 +220,9 @@ To be set up.
 
 # Sponsorship
 
-To ensure affordable participation, we plan to offer a few sponsorships to students, aiming to reduce their registration fees. More information on this in the future. Stay tuned.
+> 🚨 To ensure affordable participation, we plan to offer a few sponsorships to students, aiming to reduce their registration fees. More information on this in the future. Stay tuned.
+
+![logos](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/logos_lherzolite.jpg)
 
 # Gallery
 
@@ -230,21 +232,22 @@ Available soon
 
 # Organizing committee and contact
 
-## Organizing Committee
-
-[Olivier Alard](https://researchers.mq.edu.au/en/persons/olivier-alard) from Macquarie University (Australia)
-
-[Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) from University of Oviedo (Spain)
-
-[Sergio Llana-Fúnez](https://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) from University of Oviedo (Spain)
-
-[Romain Tilhac](https://romaintilhac.github.io/) from Andalusian Earth Sciences Institute (Spain)
-
-[José Alberto Padrón-Navarta](https://www.iact.ugr-csic.es/en/personal/perfil/jose-alberto-padron-navarta/) from Andalusian Earth Sciences Institute (Spain)
+## Organizing Committee (in alphabetical order)
 
 [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) from Université de Montpellier 2 & CNRS (France)
 
 [Basil Tikoff](https://geoscience.wisc.edu/people/tikoff-basil/) from University of Wisconsin-Madison (USA)
+
+[José Alberto Padrón-Navarta](https://www.iact.ugr-csic.es/en/personal/perfil/jose-alberto-padron-navarta/) from Andalusian Earth Sciences Institute (Spain)
+
+[Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) from University of Oviedo (Spain)
+
+[Olivier Alard](https://researchers.mq.edu.au/en/persons/olivier-alard) from Macquarie University (Australia)
+
+[Romain Tilhac](https://romaintilhac.github.io/) from Andalusian Earth Sciences Institute (Spain)
+
+[Sergio Llana-Fúnez](https://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) from University of Oviedo (Spain)
+
 
 ## Advisory committee
 

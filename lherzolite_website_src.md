@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-01-19
+Last update: 2024-01-25
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -218,9 +218,7 @@ To be set up.
 
 To be set up.
 
-# Sponsorship
-
-> 🚨 To ensure affordable participation, we plan to offer a few sponsorships to students, aiming to reduce their registration fees. More information on this in the future. Stay tuned.
+# Support
 
 ![logos](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/logos_lherzolite.jpg)
 

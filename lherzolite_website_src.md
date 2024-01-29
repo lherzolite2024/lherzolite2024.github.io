@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-01-25
+Last update: 2024-01-29
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -36,19 +36,19 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 In a nutshell, the 7th Orogenic Lherzolite program is as follows:
 
 **Pre-Conference Excursion**:
-This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st 2024.  On the 29th of September we will already be staying in the surroundings of the Geopark. One day of the excursion will be devoted entirely to the mantle section (harzburgites and pyroxenites), while the other day will be devoted to the other high-pressure section adjacent to the mantle, including "pyrigarnites" and hornblendites, Opx-free granulites and eclogites. We will give precise instructions on how to get to the Pre-Conference excursion later on.
+This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st 2024.  On the 29th of September we will already be staying in the surroundings of the Geopark. One day of the excursion will be devoted entirely to the mantle section (harzburgites and pyroxenites), while the other day will be devoted to the other high-pressure units, including pyrigarnites and hornblendites, Opx-free garnet granulites and eclogites. We will give precise instructions on how to get to the Pre-Conference excursion later on.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Congress**:
-The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. The venue for the three days will be the historic building of the University of Oviedo, located in the historic centre of the city, see https://maps.app.goo.gl/ojD2kPbDYgfMfb997 (Latitude 43.362042, Longitude -5.8463)
+The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. The venue for the three days will be the historic building of the University of Oviedo, located in the historic city centre, see https://maps.app.goo.gl/ojD2kPbDYgfMfb997 (Latitude 43.362042, Longitude -5.8463)
 
 **Post-Conference Excursions**:
-Following the Congress, we offer the opportunity for smaller groups to embark on different short excursions such as less accessible areas of the Cabo Ortegal massif and mantle outcrops in the Pyrenees. Please note that specific details and destinations for the post-Conference field visits are **yet to be determined**.
+Following the Congress, we offer the opportunity for smaller groups to embark on a short excursion. Please note that specific details and destinations for the post-Conference field visits are **yet to be determined**.
 
 > 🚨**Accommodation Information**🚨
 >
-> Accommodation in the field trips will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, for the congress in Oviedo, accommodation is not included in the registration fee and **participants are responsible for arranging their own accommodation**. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
+> Accommodation in the field trips will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, **for the congress in Oviedo**, accommodation is **not included** in the registration fee and **participants are responsible for arranging their own accommodation**. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
 
 ## Venue
 
@@ -85,7 +85,7 @@ The cheapest way to get to Oviedo from the airport is by bus (9€) with the [AL
 
 #### By Train
 
-[Oviedo north train station](https://maps.app.goo.gl/bNNZqo8t1XmX1D9f8) is located close to the city centre and there are many city bus connections nearby. There is also a taxi rank outside the station. Oviedo is directly linked to Madrid by the ALVIA high-speed train with various daily connections (journey < 3:30h), more information here: https://www.renfe.com/es/en
+Oviedo is directly linked to Madrid by the ALVIA high-speed train with various daily connections (journey < 3:30h), more information here: https://www.renfe.com/es/en [Oviedo north train station](https://maps.app.goo.gl/bNNZqo8t1XmX1D9f8) is located close to the city centre and there are many city bus connections nearby. There is also a taxi rank outside the station.
 
 #### By Bus/Coach
 

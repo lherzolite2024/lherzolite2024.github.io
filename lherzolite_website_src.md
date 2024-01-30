@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-01-29
+Last update: 2024-01-30
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -46,9 +46,9 @@ The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 
 **Post-Conference Excursions**:
 Following the Congress, we offer the opportunity for smaller groups to embark on a short excursion. Please note that specific details and destinations for the post-Conference field visits are **yet to be determined**.
 
-> 🚨**Accommodation Information**🚨
->
-> Accommodation in the field trips will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, **for the congress in Oviedo**, accommodation is **not included** in the registration fee and **participants are responsible for arranging their own accommodation**. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
+> [!NOTE]
+> **Accommodation Information**:
+> Accommodation in the field trips will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, for the congress in Oviedo, accommodation **is not included** in the registration fee and participants are responsible for arranging their own accommodation. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
 
 ## Venue
 
@@ -81,7 +81,8 @@ Lastly, the building that houses the geology studies of the University of Oviedo
 
 The cheapest way to get to Oviedo from the airport is by bus (9€) with the [ALSA bus company](https://www.alsa.es/). Buses are on the right hand side as you leave the terminal and run approximately every hour from 6am to midnight. The journey takes about 40 minutes. The ALSA bus will drop you off at the Oviedo bus station, close to the city centre, with connections to city buses and taxis. Another option, although much more expensive, is to take a taxi, which costs around 55-70 euros depending on the time of day. The journey takes about 30 minutes and can be somewhat economical if you share the journey with other travellers.
 
-> 👉 Although the most common way to enter Spain from outside europe is via Madrid or Barcelona and then find a connection to Oviedo, don't forget to check out airports such as Málaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find cheaper connections with Asturias Airport. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
+> [!TIP]
+> Although the most common way to enter Spain from outside europe is via Madrid or Barcelona and then find a connection to Oviedo, don't forget to check out airports such as Málaga, Palma de Mallorca, Lisbon, etc., as you can sometimes find cheaper connections with Asturias Airport. You can also try other nearby airports such as [Seve Ballesteros-Santander](https://www.aena.es/en/seve-ballesteros-santander.html) (2 to 3 hours by bus from Oviedo).
 
 #### By Train
 
@@ -103,13 +104,10 @@ Regarding Cabo Ortegal, temperatures are also mild in autumn (for reference, see
 
 International travellers should check the visa requirements for Spain, see https://www.spain.info/en/travel-tips/visa-passport/
 
-> 👉 If you require an invitation letter to obtain your visa please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
->
-> ⚠️ **Letters of invitation will only be sent to registered delegates**.
+> [!CAUTION]
+> If you require an invitation letter to obtain your visa please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com) **Letters of invitation will only be sent to registered delegates**.
 
 ## Accommodation
-
-> ⚠️ For field trips, accommodation **is included** in the fee and managed by the organisation. You **do not** need to do anything.
 
 The are several hotels closest to the Historic Building of the University of Oviedo, where the meeting will take place. Some are listed below.
 
@@ -135,9 +133,13 @@ The are several hotels closest to the Historic Building of the University of Ovi
 
 Note that most are located in the historic city centre and will therefore be more expensive than other options located further afield. There are plenty more accommodations (hotels, apartments, etc.) to choose from in the city, both within the historic centre and outside. The public city bus network works well and the city is pleasant to walk around.
 
+> [!IMPORTANT]
+> For field trips, accommodation **is included** in the fee and managed by the organisation. 
+
 # Abstract submission
 
-> 🚨Abstract submission is not yet open.🚨 Stay tuned!
+> [!NOTE]
+> Abstract submission is not yet open. Stay tuned!
 
 ## Deadline: 01 June 2024
 
@@ -170,7 +172,8 @@ Please, stay tuned about new announcements and information in the website and in
 
 # Registration
 
-> 🚨Registration is not yet open.🚨 Stay tuned!
+> [!NOTE]
+> Registration is not yet open. Stay tuned!
 
 <iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
 

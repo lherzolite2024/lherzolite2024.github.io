@@ -10,7 +10,7 @@
 
 **Tectonic Settings and Geological Context:** Examine the tectonic settings where specific mantle and high-*P* rocks found and originate. Discuss the geological context and implications for regional tectonics and plate dynamics.
 
-**Interdisciplinary Perspectives and Future Directions:** Synthesis session covering overarching themes,  cross-disciplinary interactions, development of new techniques or tools, and future research directions.
+**Interdisciplinary Perspectives and Future Directions:** Synthesis session covering overarching themes, cross-disciplinary interactions, development of new techniques or tools, and future research directions.
 
 
 

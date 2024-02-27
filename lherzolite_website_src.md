@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-01-30
+Last update: 2024-02-27
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
 > To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024) or <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a>
 
-The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the stunning Cabo Ortegal complex and the city of Oviedo. Cabo Ortegal region is known for the remarkable outcrops of several kilometre-scale mantle bodies (mainly serpentinized harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) granulites, eclogites, and high-P paragneisses.
+The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses.
 
 Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating.
 
@@ -31,12 +31,67 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 5. 2008 - Shasta City, California (USA) - Josephine and Trinity (western USA) peridotites.
 6. 2014 - Marrakech (Morocco) - Beni Bousera peridotite and Middle and Anti-Atlas mantle xenoliths and ophiolites.
 
+
+# Registration
+
+> [!NOTE]
+> Registration is not yet open. Stay tuned!
+
+<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
+
+### How to register
+
+Instructions available soon
+
+### Fees and benefits
+
+Available soon
+
+### Cancellation policy
+
+Available soon
+
+# Abstract submission
+
+> [!NOTE]
+> Abstract submission is not yet open. Stay tuned!
+
+## Deadline: 01 June 2024
+
+<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
+
+
+## How to submit
+
+To submit your abstract, please follow these steps:
+
+1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
+
+   - Download the [Word abstract template (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
+
+   - Download the [Plain text abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
+
+   - Download the [Participation form]() (available soon)
+
+2. Email your abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please ensure that you include the following information:
+   - The preferred topical session: Indicate the session under which your  abstract aligns best. If applicable, mention any specific subtopic or theme within the session.
+   
+   - Presentation modality preference: Specify whether you prefer an **oral presentation** or a **poster presentation**.
+   
+   - Other relevant information: If there are any special requirements or additional information you would like to provide.
+   
+
+Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt. Please be patient, the response is not automated and will not be immediate, so please wait at least 24 hours before contacting us again if you suspect your email has not reached us.
+
+Stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Late submissions will not be accepted. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
+
+
 # Practical information
 
 In a nutshell, the 7th Orogenic Lherzolite program is as follows:
 
 **Pre-Conference Excursion**:
-This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st 2024.  On the 29th of September we will already be staying in the surroundings of the Geopark. One day of the excursion will be devoted entirely to the mantle section (harzburgites and pyroxenites), while the other day will be devoted to the other high-pressure units, including pyrigarnites and hornblendites, Opx-free garnet granulites and eclogites. We will give precise instructions on how to get to the Pre-Conference excursion later on.
+This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st 2024.  On the 29th of September we will already be staying in the surroundings of the Geopark. One day of the excursion will be devoted entirely to the mantle section (Amph-bearing harzburgites and pyroxenites), while the other day will be devoted to the other high-pressure units, including pyrigarnites and hornblendites, Opx-free garnet granulites and eclogites. We will give precise instructions on how to get to the Pre-Conference excursion later on.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -46,7 +101,7 @@ The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 
 **Post-Conference Excursions**:
 Following the Congress, we offer the opportunity for smaller groups to embark on a short excursion. Please note that specific details and destinations for the post-Conference field visits are **yet to be determined**.
 
-> [!NOTE]
+> [!IMPORTANT]
 > **Accommodation Information**:
 > Accommodation in the field trips will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, for the congress in Oviedo, accommodation **is not included** in the registration fee and participants are responsible for arranging their own accommodation. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
 
@@ -136,58 +191,6 @@ Note that most are located in the historic city centre and will therefore be mor
 > [!IMPORTANT]
 > For field trips, accommodation **is included** in the fee and managed by the organisation. 
 
-# Abstract submission
-
-> [!NOTE]
-> Abstract submission is not yet open. Stay tuned!
-
-## Deadline: 01 June 2024
-
-<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
-
-
-## How to submit
-
-To submit your abstract, please follow these steps:
-
-1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
-
-   - Download the [Word abstract template (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
-
-   - Download the [Plain text abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
-
-   - Download the [Participation form]() (available soon)
-
-2. Email your completed abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please ensure you included the following information:
-   - The preferred topical session: Indicate the session under which your  abstract aligns best. If applicable, mention any specific subtopic or theme within the session.
-   
-   - Presentation modality preference: Specify whether you prefer an oral presentation or a poster presentation.
-   
-   - Other relevant information: If there are any special requirements or additional information you would like to provide.
-   
-
-Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt. Be patient, the response is not automated and will not be immediate, so please wait at least 24 hours before contacting us again if you suspect your email has not reached us.
-
-Please, stay tuned about new announcements and information in the website and in our twitter account [@lherzolite2024](https://twitter.com/lherzolite2024). Late submissions will not be accepted. For further details, please reach out to the organizing committee at [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com)
-
-# Registration
-
-> [!NOTE]
-> Registration is not yet open. Stay tuned!
-
-<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
-
-### How to register
-
-Instructions available soon
-
-### Fees and benefits
-
-Available soon
-
-### Cancellation policy
-
-Available soon
 
 # Fieldtrips
 

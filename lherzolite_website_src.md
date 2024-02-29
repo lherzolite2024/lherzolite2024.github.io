@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-02-27
+Last update: 2024-02-29
 
 > 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
 >
@@ -37,7 +37,7 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 > [!NOTE]
 > Registration is not yet open. Stay tuned!
 
-<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20registration/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20be%20able%20to%20register/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
 
 ### How to register
 

@@ -1,8 +1,20 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-02-29
+Last update: 2024-03-01
 
-> 🚨**IMPORTANT ANNOUNCEMENTS** 🚨
+> **ANNOUNCEMENTS** 📣📣📣
+>
+> **WHEN**: 
+>
+> ​	**Meeting:** <font color=#EE4266>**OCT 02-04**</font> 
+> ​	**Pre-conference excursion:** <font color=#EE4266>**SEP 30 to OCT 01**</font>
+>
+> **WHERE**:
+> ​	<font color=#337357>**Historic building of the University of Oviedo, OVIEDO, SPAIN**</font>
+>
+> **SOCIAL**:
+>
+> ​	[#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click)
 >
 > To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024) or <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a>
 
@@ -39,13 +51,22 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 
 <iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20be%20able%20to%20register/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
 
-### How to register
+## How to register
 
 Instructions available soon
 
-### Fees and benefits
+## Fees and benefits
 
-Available soon
+### Meeting
+
+> **Regular participants**: 350€
+> **PhD students**: 200€
+
+The fees includes the ice-breaker reception, coffee breaks, refreshments, and lunches. 
+
+### Pre-conference excursion
+
+We will operate a first-come first-served policy
 
 ### Cancellation policy
 

@@ -1,20 +1,10 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-03-01
+Last update: 2024-03-02
 
 > **ANNOUNCEMENTS** 📣📣📣
 >
-> **WHEN**: 
->
-> ​	**Meeting:** <font color=#EE4266>**OCT 02-04**</font> 
-> ​	**Pre-conference excursion:** <font color=#EE4266>**SEP 30 to OCT 01**</font>
->
-> **WHERE**:
-> ​	<font color=#337357>**Historic building of the University of Oviedo, OVIEDO, SPAIN**</font>
->
-> **SOCIAL**:
->
-> ​	[#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click)
+> **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click)
 >
 > To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024) or <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a>
 
@@ -66,7 +56,7 @@ The fees includes the ice-breaker reception, coffee breaks, refreshments, and lu
 
 ### Pre-conference excursion
 
-We will operate a first-come first-served policy
+TODO. We will operate a first-come first-served policy
 
 ### Cancellation policy
 

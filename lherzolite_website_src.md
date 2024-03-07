@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-03-02
+Last update: 2024-03-07
 
 > **ANNOUNCEMENTS** 📣📣📣
 >
@@ -52,11 +52,13 @@ Instructions available soon
 > **Regular participants**: 350€
 > **PhD students**: 200€
 
-The fees includes the ice-breaker reception, coffee breaks, refreshments, and lunches. 
+Fees include welcome reception, coffee breaks, refreshments and lunches. Accommodation and dinner are not included. 
 
 ### Pre-conference excursion
 
-TODO. We will operate a first-come first-served policy
+> TODO
+
+TODO. We will operate a first-come first-served policy. Excursion fees include lunch, dinner and accommodation.
 
 ### Cancellation policy
 
@@ -76,20 +78,17 @@ Available soon
 
 To submit your abstract, please follow these steps:
 
-1. Download the abstract template and the participation form by clicking on the links provided below. The templates contains detailed information about the required size and format for your abstract.
+1. Download the **abstract template** with the **participation form** (included on the second page) by clicking on the links below. The templates contains detailed information about the required size and format for your abstract.
 
-   - Download the [Word abstract template (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0/abstract_template.docx) 
-
-   - Download the [Plain text abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.0-mk/abstract_template.md)
-
-   - Download the [Participation form]() (available soon)
-
+   - Download the [Word abstract template (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.1/abstract_template.docx) 
+   - Download the [Plain text abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.1mk/abstract_template.md)
 2. Email your abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please ensure that you include the following information:
-   - The preferred topical session: Indicate the session under which your  abstract aligns best. If applicable, mention any specific subtopic or theme within the session.
    
-   - Presentation modality preference: Specify whether you prefer an **oral presentation** or a **poster presentation**.
+   - **Preferred communication option**: Specify whether you prefer an oral or a poster presentation (participation form).
+
+   - **Preferred topical session**: Indicate the session(s) under which your abstract aligns best (participation form).
    
-   - Other relevant information: If there are any special requirements or additional information you would like to provide.
+   - Other relevant information: If there are any special requirements or additional information you would like to provide please let us know in the email.
    
 
 Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt. Please be patient, the response is not automated and will not be immediate, so please wait at least 24 hours before contacting us again if you suspect your email has not reached us.

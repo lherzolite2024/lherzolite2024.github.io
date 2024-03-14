@@ -1,18 +1,18 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-03-07
+Last update: 2024-03-14
 
 > **ANNOUNCEMENTS** 📣📣📣
 >
-> **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click)
+> **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
 > To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024) or <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a>
 
-The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses.
+_The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses._
 
-Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating.
+_Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating._
 
-Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to the 7th Orogenic Lherzolite Meeting in Spain, where fruitful discussions and valuable networking await!
+_Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to the **7th Orogenic Lherzolite Meeting** in Spain, where fruitful discussions and valuable networking await!_
 
 Website map (click where you want to go)
 
@@ -37,7 +37,7 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 # Registration
 
 > [!NOTE]
-> Registration is not yet open. Stay tuned!
+> The conference registration is just around the corner. Stay tuned!
 
 <iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20be%20able%20to%20register/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
 

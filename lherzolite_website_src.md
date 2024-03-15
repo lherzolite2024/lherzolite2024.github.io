@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-03-14
+Last update: 2024-03-15
 
-> **ANNOUNCEMENTS** 📣📣📣
+> **LAST ANNOUNCEMENTS** 📣📣📣
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
-> To keep up to date follow us on: [@lherzolite2024](https://twitter.com/lherzolite2024) or <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a>
+> To keep up to date through social media follow us on Twitter/X at [@lherzolite2024](https://twitter.com/lherzolite2024) or visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> (no account is required to view announcements)
 
 _The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses._
 
@@ -101,7 +101,7 @@ Stay tuned about new announcements and information in the website and in our twi
 In a nutshell, the 7th Orogenic Lherzolite program is as follows:
 
 **Pre-Conference Excursion**:
-This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st 2024.  On the 29th of September we will already be staying in the surroundings of the Geopark. One day of the excursion will be devoted entirely to the mantle section (Amph-bearing harzburgites and pyroxenites), while the other day will be devoted to the other high-pressure units, including pyrigarnites and hornblendites, Opx-free garnet granulites and eclogites. We will give precise instructions on how to get to the Pre-Conference excursion later on.
+This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st 2024. On the 29th of September we will already be staying in the surroundings of the Geopark. One day of the excursion will be devoted entirely to the mantle section (Amph-bearing spinel harzburgites and garnet-bearing pyroxenites), while the other day will be devoted to the other high-pressure units, including pyrigarnites and hornblendites, Opx-free garnet granulites and eclogites. We will give precise instructions on how to get to the Pre-Conference excursion later on.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -121,7 +121,7 @@ Following the Congress, we offer the opportunity for smaller groups to embark on
 
 With a history dating back to Roman times, Oviedo has preserved its architectural heritage while embracing contemporary development. The city has remarkable monuments that reflect its past. It is particularly renowned for its [Asturian pre-Romanesque architecture](https://www.spain.info/en/top/asturias-pre-romanesque/) style, first appeared in the 8th century, which showcases a unique and influential style from the early Middle Ages. The city is home to a number of exceptional pre-Romanesque buildings, including the Santa María del Naranco palace, the San Julián de los Prados and San Miguel de Lillo churches, the _Cámara Santa_ (Holy Chamber) or the Foncalada fountain, all of them recognized as [UNESCO World Heritage sites](https://whc.unesco.org/en/list/312/). Also, the Gothic-style Oviedo Cathedral, built between the centuries 13th and 16th, stands as an impressive example of medieval architecture. Oviedo's historic old town, known as the _Casco Antiguo_, is a maze of narrow streets and squares, adorned with beautiful buildings and picturesque plazas.
 
-Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural gem which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The departmental building also houses a free geology museum, a mainstay of geoscience outreach in the region.
+Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural building which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The departmental building also houses a geology museum, which is free and a mainstay of geoscience outreach in the region.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5801.427761162407!2d-5.850055306236552!3d43.36209140653389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd368d1d7cf7aa7d%3A0xadc2f27b2a87f9dc!2sUniversidad%20de%20Oviedo!5e0!3m2!1ses!2ses!4v1701680466227!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

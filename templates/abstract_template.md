@@ -2,11 +2,11 @@
 
 **Author One^1^, Author Two^2^, Author Three^3^**
 
-^1^Name of the Institution, Address, https://orcid.org/0000-0002-1825-0097
-^2^Name of the Institution, Address, ORCID identifier
-^3^Name of the Institution, Address, ORCID identifier
+^1^Name of the Institution, Address, 
+^2^Name of the Institution, Address
+^3^Name of the Institution, Address
 
-_Contact Email: responsible.author@email.com_
+_Corresponding author email_: responsible.author@email.com; https://orcid.org/0000-0002-1825-0097
 
 ### Main Text
 Please provide an abstract of no more than 600 words, one figure or one table (included here), and a brief list of references. We kindly request that you refrain from using section headers (remove the Main Text header). While it's encouraged to include a summary figure, it's not obligatory.
@@ -17,9 +17,9 @@ $$
 \sin^2(a)+\cos^2(a) = 1
 $$
 
-You can also use the LaTeX inline mode $y=x^2$. For units, please follow the recommendations of Koefoed (1967). References should be included in the references section arranged first alphabetically and then chronologically if necessary. Use the Elsevier - Harvard’s style including full titles for formatting the references. You can utilize https://zbib.org/ to automatically format your references by providing the doi or the title of the source.
+You can also use the LaTeX inline mode $y=x^2$. For units, please follow the recommendations of Koefoed (1967). References should be included in the references section arranged alphabetically and then chronologically if necessary. Use Elsevier - Harvard’s style including full titles for formatting the references. You can utilize https://zbib.org/ to automatically format your references by providing the doi or the title of the source.
 
-Abstracts will be reviewed by the Scientific Committee, who will decide about the direct acceptation of the abstract, provide advice for modifications or reject in case that they consider that an abstract has not have sufficient quality or do not fit within the broad topics of the meeting.
+Abstracts will be reviewed by the Scientific Committee, who will decide about the direct acceptance of the abstract and provide advice for modifications or rejection in case they consider that an abstract does not have sufficient quality or does not fit within the broad topics of the meeting.
 
 ![Figure 1](https://github.com/lherzolite2024/lherzolite2024.github.io/blob/v1.0/templates/img221.png?raw=true)
 
@@ -39,7 +39,7 @@ Koefoed, O., 1967. UNITS IN GEOPHYSICAL PROSPECTING*. Geophys Prospect 15, 1–6
 - [ ] Oral
 - [ ] Poster
 
-> **Important**: Please note that submitting this form indicates your preference for an oral or poster presentation. However, the final decision regarding the presentation format (oral or poster) rests with the congress organizers. While we will consider your preferences, the final decisions will be based on various factors, including the overall programme schedule and available slots.
+> **Important**: Please note that submitting this form indicates your preference for an oral or poster presentation but the final decision regarding the presentation format rests with the congress organizers. While we will consider your preferences, the final decisions will be based on various factors, including the overall program schedule and available slots.
 
 
 ## Preferred thematic session (you may choose more than one):
@@ -48,13 +48,13 @@ Koefoed, O., 1967. UNITS IN GEOPHYSICAL PROSPECTING*. Geophys Prospect 15, 1–6
 
 - [ ] **Mantle-Crust Interaction and Melt Generation**: This session will focus on the processes of mantle-crust interaction and melt generation, including melting processes, melt transport and their impact on crustal evolution, crustal recycling, and the significance of (ultra)mafic lithologies in orogenic peridotites.
 
-- [ ] **Seismic and Geophysical Studies**: Present and discuss the results of seismic and geophysical studies related to mantle and high-P crustal rocks. Explore how these studies contribute to our understanding of mantle structure, composition, and dynamics. Including modelling seismic or other physical rock properties.
+- [ ] **Seismic and Geophysical Studies**: Present and discuss the results of seismic and geophysical studies related to the mantle and high-P crustal rocks. Explore how these studies contribute to our understanding of mantle structure, composition, and dynamics. Including modelling seismic or other physical rock properties.
 
 - [ ] **Thermodynamic and Numerical Modelling Approaches**: Showcase modelling efforts aimed at simulating conditions relevant to mantle and related high-P rocks (granulites, eclogites). For example, discussing the significance of mineral reactions, phase equilibria, and mineral relations or simulating P-T paths in subduction settings. Approaches comparing models and field-based cases are encouraged.
 
-- [ ] **Deformation in the Mantle and High-P Crustal rocks**: Showcase microstructural and textural (CPO) studies of mantle and high-P crustal rocks, rheological properties, experimental rock deformation.
+- [ ] **Deformation in the Mantle and High-P Crustal rocks**: Showcase microstructural and textural (CPO) studies of mantle and high-P crustal rocks, rheological properties, and experimental rock deformation.
 
-- [ ] **Tectonic Settings and Geological Context**: Discuss the tectonic settings where specific mantle and related rocks found and originate.
+- [ ] **Tectonic Settings and Geological Context**: Discuss the tectonic settings where specific mantle and related rocks are found and originate.
 
 - [ ] **Mantle carbon and volatile cycles**: Role of the mantle in the carbon and volatile cycles and low-temperature hydrothermal alteration.
 
@@ -62,7 +62,7 @@ Koefoed, O., 1967. UNITS IN GEOPHYSICAL PROSPECTING*. Geophys Prospect 15, 1–6
 
 - [ ] **Interdisciplinary Perspectives and Future Directions**: Cross-disciplinary interactions, development of new techniques or tools, and future research directions.
 
-> **Important**: Please note that the organization reserves the right to modify or combine thematic sessions based on the number of participants and scheduling constraints. While we aim to accommodate participants’ preferences, adjustments may be necessary to ensure a balanced and efficient programme.
+> **Important**: Please note that the organisation reserves the right to modify or combine thematic sessions based on the number of participants and scheduling constraints. While we aim to accommodate participants’ preferences, adjustments may be necessary to ensure a balanced and efficient programme.
 
 
 ## Will you be attending an excursion?

@@ -1,12 +1,14 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-03-15
+Last update: 2024-05-10
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
-> To keep up to date through social media follow us on Twitter/X at [@lherzolite2024](https://twitter.com/lherzolite2024) or visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> (no account is required to view announcements)
+> To keep up to date through social media follow us on Twitter/X at [@lherzolite2024](https://twitter.com/lherzolite2024) or visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> (no account is required to view announcements).
+>
+> 🚨 Registration for the congress will open in a few weeks, before the end of May. Stay tuned!
 
 _The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses._
 
@@ -58,7 +60,7 @@ Fees include welcome reception, coffee breaks, refreshments and lunches. Accommo
 
 > TODO
 
-TODO. We will operate a first-come first-served policy. Excursion fees include lunch, dinner and accommodation.
+TODO. We will operate a first-come first-served policy. Excursion fees include transport to the Geopark, lunch, dinner and accommodation.
 
 ### Cancellation policy
 
@@ -69,9 +71,9 @@ Available soon
 > [!NOTE]
 > Abstract submission is not yet open. Stay tuned!
 
-## Deadline: 01 June 2024
+## Deadline: 15 July 2024
 
-<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20submit%20abstracts/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i9d75ofy/n141/cf12/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cace28743/cpc000/pct/tcfff/fs100/szw576/szh243/tatTime%20left%20to%20abstract%20submission/tace28743/tptTime%20since%20Event%20started%20in/tpc000/iso2024-07-15T00:00:00" allowtransparency="true" frameborder="0" width="516" height="87"></iframe>
 
 
 ## How to submit
@@ -80,8 +82,9 @@ To submit your abstract, please follow these steps:
 
 1. Download the **abstract template** with the **participation form** (included on the second page) by clicking on the links below. The templates contains detailed information about the required size and format for your abstract.
 
-   - Download the [Word abstract template (docx)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.1/abstract_template.docx) 
-   - Download the [Plain text abstract template (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.1mk/abstract_template.md)
+   - Download the abstract template in [Word (docx) format](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.2/abstract_template.docx) 
+   - Download the abstract template in [OpenDocument text (odt) format](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.2/abstract_template.odt)
+   - Download the abstract template in [Plain text (markdown + latex equations)](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v1.2/abstract_template.md)
 2. Email your abstract and participation form (one for submitted abstract) to lherzolite2024@gmail.com. Please ensure that you include the following information:
    
    - **Preferred communication option**: Specify whether you prefer an oral or a poster presentation (participation form).
@@ -261,11 +264,6 @@ Available soon
 [Romain Tilhac](https://romaintilhac.github.io/) from Andalusian Earth Sciences Institute (Spain)
 
 [Sergio Llana-Fúnez](https://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) from University of Oviedo (Spain)
-
-
-## Advisory committee
-
-TODO
 
 ## Contact details
 

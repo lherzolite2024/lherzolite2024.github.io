@@ -20,3 +20,5 @@
 ## Poster printing service
 
 TODO
+
+[Back to the congress website](https://lherzolite2024.github.io/)

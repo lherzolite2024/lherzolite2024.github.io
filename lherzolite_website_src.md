@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-05-10
+Last update: 2024-05-14
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
@@ -111,9 +111,6 @@ This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Glo
 **Congress**:
 The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. The venue for the three days will be the historic building of the University of Oviedo, located in the historic city centre, see https://maps.app.goo.gl/ojD2kPbDYgfMfb997 (Latitude 43.362042, Longitude -5.8463)
 
-**Post-Conference Excursions**:
-Following the Congress, we offer the opportunity for smaller groups to embark on a short excursion. Please note that specific details and destinations for the post-Conference field visits are **yet to be determined**.
-
 > [!IMPORTANT]
 > **Accommodation Information**:
 > Accommodation in the field trips will be managed directly by the organisation and the cost will be included in the excursion registration fee. However, for the congress in Oviedo, accommodation **is not included** in the registration fee and participants are responsible for arranging their own accommodation. We recommend booking early to secure the best prices and availability. Please refer to the accommodation section below for detailed information and helpful tips.
@@ -215,10 +212,6 @@ Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock
 
 TODO
 
-## Post-conference fieldtrip(s)
-
-yet to be decided
-
 # Programme & event schedule
 
 After the abstract submission deadline, the program will be made available for download in PDF format below along with a link for viewing it in HTML.
@@ -228,6 +221,16 @@ After the abstract submission deadline, the program will be made available for d
 - [access the programme in html]() (not yet available)
 
 - [download the programme as a single html file]() (for offline viewing in your favourite browser)
+
+## Presenter guidelines
+
+### Oral presentations
+
+Available soon
+
+### Poster presenter guidelines
+
+See guidelines at https://github.com/lherzolite2024/lherzolite2024.github.io/blob/main/poster_info.md
 
 ## Social activities
 

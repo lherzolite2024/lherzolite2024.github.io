@@ -1,14 +1,15 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-05-14
+Last update: 2024-05-15
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
+>
+> 🚨 Registration for the congress is about to open until 15th July. Registration for the pre-congress excursion will open before the end of May, note that you may make your pre-reservation during the congress registration.
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
 > To keep up to date through social media follow us on Twitter/X at [@lherzolite2024](https://twitter.com/lherzolite2024) or visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> (no account is required to view announcements).
 >
-> 🚨 Registration for the congress will open in a few weeks, before the end of May. Stay tuned!
 
 _The 7th Orogenic Lherzolite Meeting will take place from 30 September to 6 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses._
 
@@ -38,42 +39,51 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 
 # Registration
 
-> [!NOTE]
-> The conference registration is just around the corner. Stay tuned!
-
-<iframe src="https://free.timeanddate.com/countdown/i8xn8h7p/n3759/cf11/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cac588157/cpc900/pct/tcfff/fs100/szw448/szh189/tatTime%20left%20to%20be%20able%20to%20register/tac588157/tptTime%20out/tpc900/iso2024-07-01T00:00:00" allowtransparency="true" frameborder="0" width="359" height="54"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i9dfw8nh/n3759/cf11/cm0/cu3/ct4/cs1/ca0/co1/cr0/ss0/cac1e81b0/cpc000/pct/tcfff/fs100/szw576/szh243/tatTime%20left%20to%20register/tac1e81b0/tptTime%20since%20Event%20started%20in/tpc000/iso2024-07-15T23:59:59" allowtransparency="true" frameborder="0" width="398" height="70"></iframe>
 
 ## How to register
 
-Instructions available soon
+To register for the 7th Orogenic Lherzolite Congress, simply follow these steps:
+
+1. **Registration Link**. Click on the web link provided below. This link will direct you to an external page dedicated to registration.
+2. **Data Entry**. Fill in the required information for registration. This may include personal information, affiliation, and any other relevant details. Be sure to complete all fields accurately.
+3. **Payment Options**. After filling out the registration form, you will proceed to the online payment section. Choose between two modalities: bank transfer or credit card. Rest assured that this is a secure payment gateway.
+4. **Contact Information**. If you have any questions or need assistance, feel free to reach out to us via email at <mark>TODO</mark>. Our team is here to assist you.
+
+We look forward to welcoming you to the 7th Orogenic Lherzolite Congress!
+
+[Registration Link]() NOT WORKING YET!
 
 ## Fees and benefits
 
-### Meeting
+### 7th Orogenic Lherzolite Meeting in Oviedo
 
 > **Regular participants**: 350€
-> **PhD students**: 200€
+> **PhD students\***: 200€
+>
+> Registration fees include VAT.
+> _\*Participants selecting the student fee must provide some form of accreditation or document certifying their student status._
 
-Fees include welcome reception, coffee breaks, refreshments and lunches. Accommodation and dinner are not included. 
+Fees include welcome reception, coffee breaks, refreshments and lunches. Accommodation and dinner are **not included**.
 
-### Pre-conference excursion
+### Pre-conference excursion to Cabo Ortegal
 
-> TODO
+> Available soon!
 
-TODO. We will operate a first-come first-served policy. Excursion fees include transport to the Geopark, lunch, dinner and accommodation.
+The pre-conference excursion is limited to 80 participants. We will operate a first-come, first-served policy. Please note that excursion fees include transport to the Geopark, lunch, dinner and accommodation. <mark>Please note that you may make your pre-reservation during the congress registration.</mark>
 
 ### Cancellation policy
 
-Available soon
+A full refund will be offered for cancellations made before September 8th. From September 9th to 20th, an 80% refund of the registration fee will be provided. No refunds will be issued after September 20th. This policy is implemented due to incurred organizational costs. For further details, please contact us.
 
 # Abstract submission
 
-> [!NOTE]
-> Abstract submission is not yet open. Stay tuned!
-
-## Deadline: 15 July 2024
-
-<iframe src="https://free.timeanddate.com/countdown/i9d75ofy/n141/cf12/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cace28743/cpc000/pct/tcfff/fs100/szw576/szh243/tatTime%20left%20to%20abstract%20submission/tace28743/tptTime%20since%20Event%20started%20in/tpc000/iso2024-07-15T00:00:00" allowtransparency="true" frameborder="0" width="516" height="87"></iframe>
+> [!IMPORTANT]
+> **Abstract submission is now open**
+>
+> <font color=#c20202>**Deadline: 15 July 2024**</font>.
+>
+> <iframe src="https://free.timeanddate.com/countdown/i9dfw8nh/n3759/cf11/cm0/cu3/ct4/cs1/ca0/co1/cr0/ss0/cacc20202/cpc000/pct/tcfff/fs100/szw576/szh243/tatTime%20left%20to%20abstract%20submission/tacc20202/tptTime%20since%20Event%20started%20in/tpc000/iso2024-07-15T23:59:59" allowtransparency="true" frameborder="0" width="516" height="70"></iframe>
 
 
 ## How to submit
@@ -91,7 +101,7 @@ To submit your abstract, please follow these steps:
 
    - **Preferred topical session**: Indicate the session(s) under which your abstract aligns best (participation form).
    
-   - Other relevant information: If there are any special requirements or additional information you would like to provide please let us know in the email.
+   - **Other relevant information**: If there are any special requirements or additional information you would like to provide please let us know in the email.
    
 
 Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt. Please be patient, the response is not automated and will not be immediate, so please wait at least 24 hours before contacting us again if you suspect your email has not reached us.
@@ -226,7 +236,7 @@ After the abstract submission deadline, the program will be made available for d
 
 ### Oral presentations
 
-Available soon
+Guidelines and details available soon
 
 ### Poster presenter guidelines
 
@@ -234,11 +244,11 @@ See guidelines at https://github.com/lherzolite2024/lherzolite2024.github.io/blo
 
 ## Social activities
 
-To be set up.
+Details available soon
 
 ## Student awards
 
-To be set up.
+Details available soon
 
 # Support
 

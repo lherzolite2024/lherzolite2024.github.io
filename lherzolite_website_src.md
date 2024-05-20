@@ -48,7 +48,7 @@ To register for the 7th Orogenic Lherzolite Congress, simply follow these steps:
 1. **Registration Link**. Click on the web link provided below. This link will direct you to an external page dedicated to registration.
 2. **Data Entry**. Fill in the required information for registration. This may include personal information, affiliation, and any other relevant details. Be sure to complete all fields accurately.
 3. **Payment Options**. After filling out the registration form, you will proceed to the payment section. Choose between two modalities: bank transfer or online (i.e. credit card) payment. Rest assured that this is a secure payment gateway.
-4. **Contact Information**. If you have any questions or need assistance, feel free to reach out to us via email at vanessa.fuo@uniovi.es Our team is here to assist you.
+4. **Contact Information**. If you have any questions or need assistance with registration, feel free to reach out to us via email at [vanessa.fuo@uniovi.es](mailto:vanessa.fuo@uniovi.es). Our team is here to assist you.
 
 We look forward to welcoming you to the 7th Orogenic Lherzolite Congress!
 

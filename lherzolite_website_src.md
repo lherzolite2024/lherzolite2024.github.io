@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-05-15
+Last update: 2024-05-20
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨 Registration for the congress is about to open until 15th July. Registration for the pre-congress excursion will open before the end of May, note that you may make your pre-reservation during the congress registration.
+> 🚨 Registration for the congress is now open until 15th July. Registration for the pre-congress excursion will open before the end of May, note that you may make your pre-reservation during the congress registration.
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
@@ -47,12 +47,12 @@ To register for the 7th Orogenic Lherzolite Congress, simply follow these steps:
 
 1. **Registration Link**. Click on the web link provided below. This link will direct you to an external page dedicated to registration.
 2. **Data Entry**. Fill in the required information for registration. This may include personal information, affiliation, and any other relevant details. Be sure to complete all fields accurately.
-3. **Payment Options**. After filling out the registration form, you will proceed to the online payment section. Choose between two modalities: bank transfer or credit card. Rest assured that this is a secure payment gateway.
-4. **Contact Information**. If you have any questions or need assistance, feel free to reach out to us via email at <mark>TODO</mark>. Our team is here to assist you.
+3. **Payment Options**. After filling out the registration form, you will proceed to the payment section. Choose between two modalities: bank transfer or online (i.e. credit card) payment. Rest assured that this is a secure payment gateway.
+4. **Contact Information**. If you have any questions or need assistance, feel free to reach out to us via email at vanessa.fuo@uniovi.es Our team is here to assist you.
 
 We look forward to welcoming you to the 7th Orogenic Lherzolite Congress!
 
-[Registration Link]() NOT WORKING YET!
+👉 [Registration Link](https://intranetfuo.uniovi.es/en/web/intranet-fuo/congresos/7th_orogenic_lherzolite_meeting) 
 
 ## Fees and benefits
 

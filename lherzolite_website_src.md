@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-05-20
+Last update: 2024-05-21
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
@@ -53,6 +53,9 @@ To register for the 7th Orogenic Lherzolite Congress, simply follow these steps:
 We look forward to welcoming you to the 7th Orogenic Lherzolite Congress!
 
 👉 [Registration Link](https://intranetfuo.uniovi.es/en/web/intranet-fuo/congresos/7th_orogenic_lherzolite_meeting) 
+
+> [!IMPORTANT]
+> Some users have reported **an issue** when attempting to proceed to payment when the pre-congress excursion reservation is selected (if it is not selected, there is no problem). While we are working to resolve this, you can proceed to payment without selecting the excursion and send an email to [lherzolite2024@gmail.com](mailto:lherzolite2024@gmail.com) indicating that you are interested in attending the excursion (the order of interest will be preserved).
 
 ## Fees and benefits
 

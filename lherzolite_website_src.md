@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-05-22
+Last update: 2024-06-07
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨 Registration for the congress is now open until 15th July. Registration for the pre-congress excursion will open before the end of May, note that you may make your pre-reservation during the congress registration.
+> 🚨 Registration for the congress is now open until 15th July. Registration for the pre-congress excursion will open next week, note that you may make your pre-reservation during the congress registration.
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
@@ -68,7 +68,7 @@ Fees include welcome reception, coffee breaks, refreshments and lunches. Accommo
 
 ### Pre-conference excursion to Cabo Ortegal
 
-> Available soon!
+> Available next week!
 
 The pre-conference excursion is limited to 80 participants. We will operate a first-come, first-served policy. Please note that excursion fees include transport to the Geopark, lunch, dinner and accommodation. <mark>Please note that you may make your pre-reservation during the congress registration.</mark>
 

@@ -113,13 +113,32 @@ Stay tuned about new announcements and information in the website and in our twi
 
 In a nutshell, the 7th Orogenic Lherzolite program is as follows:
 
-**Pre-Conference Excursion**:
-This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st 2024. On the 29th of September we will already be staying in the surroundings of the Geopark. One day of the excursion will be devoted entirely to the mantle section (Amph-bearing spinel harzburgites and garnet-bearing pyroxenites), while the other day will be devoted to the other high-pressure units, including pyrigarnites and hornblendites, Opx-free garnet granulites and eclogites. We will give precise instructions on how to get to the Pre-Conference excursion later on.
+## Pre-Conference Excursion
+
+This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st, 2024. 
+
+**Transportation and Accommodation**:
+
+On the afternoon of September 29th, one or two buses will transport participants from Oviedo to hotels near the Cabo Ortegal Geopark. The journey will take approximately three hours. Participants will return to Oviedo on the afternoon of October 1st.
+
+**Excursion Itinerary:**
+
+- **Day 1 (September 30th):** The first day will focus on the mantle section, featuring amphibole-bearing spinel harzburgites and garnet-bearing pyroxenites.
+- **Day 2 (October 1st):** The second day will cover other high-pressure units, including pyrigarnites, hornblendites, orthopyroxene-free garnet granulites, and eclogites.
+
+We will provide detailed instructions on how to join the pre-conference excursion closer to the event date. We look forward to an exciting and informative excursion with you! 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Congress**:
-The Congress itself will be held in the city of Oviedo (Asturias, Spain) from 2 to 4 October. The venue for the three days will be the historic building of the University of Oviedo, located in the historic city centre, see https://maps.app.goo.gl/ojD2kPbDYgfMfb997 (Latitude 43.362042, Longitude -5.8463)
+## Oviedo Meeting
+
+The Congress will be held in Oviedo, Asturias, Spain, from October 2nd to 4th, 2024. The venue for all three days will be the historic building of the University of Oviedo, located in the city centre. For location details, refer to this map https://maps.app.goo.gl/ojD2kPbDYgfMfb997 (Latitude 43.362042, Longitude -5.8463).
+
+We will provide detailed instructions and time schedules closer to the event date. We look forward to welcoming you to Oviedo!
+
+**Congress format**
+
+The Orogenic Lherzolite Congresses are known for their itinerant nature and the absence of invited speakers or keynotes. This ensures that all participants have equal opportunity and time to present their work. The exact timing of the talks will be determined closer to the event, based on the number of participants and available time slots.
 
 > [!IMPORTANT]
 > **Accommodation Information**:
@@ -212,15 +231,13 @@ Note that most are located in the historic city centre and will therefore be mor
 > For field trips, accommodation **is included** in the fee and managed by the organisation. 
 
 
-# Fieldtrips
-
-## Pre-conference fieldtrip
+# Pre-conference fieldtrip
 
 Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock units (Garnet-bearing Opx-free granulites, cummulates & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/Ouzal_LR.jpg)
 
-TODO
+We will provide more info closer to the event date.
 
 # Programme & event schedule
 
@@ -236,7 +253,7 @@ After the abstract submission deadline, the program will be made available for d
 
 ### Oral presentations
 
-Guidelines and details available soon
+Guidelines and details closer to the event date.
 
 ### Poster presenter guidelines
 
@@ -244,19 +261,15 @@ See guidelines at https://github.com/lherzolite2024/lherzolite2024.github.io/blo
 
 ## Social activities
 
-Details available soon
+We will provide more info closer to the event date.
 
 ## Student awards
 
-Details available soon
+We will provide more info closer to the event date.
 
 # Support
 
 ![logos](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/logos_lherzolite.jpg)
-
-# Gallery
-
-Available soon
 
 
 

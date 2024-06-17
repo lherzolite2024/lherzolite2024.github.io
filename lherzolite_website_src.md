@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-06-12
+Last update: 2024-06-17
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
@@ -102,6 +102,8 @@ To submit your abstract, please follow these steps:
    - **Preferred topical session**: Indicate the session(s) under which your abstract aligns best (participation form).
    
    - **Other relevant information**: If there are any special requirements or additional information you would like to provide please let us know in the email.
+   
+   - Please, **provide your ORCID code**. We encourage the use of this identifier over email as it is more stable (many researchers change institutions and therefore email addresses during their career).
    
 
 Once your abstract has been successfully submitted, you will receive a confirmation email acknowledging the receipt. Please be patient, the response is not automated and will not be immediate, so please wait at least 24 hours before contacting us again if you suspect your email has not reached us.

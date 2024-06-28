@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-06-17
+Last update: 2024-06-28
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨 Registration for the congress is now open until 15th July. Registration for the pre-congress excursion will open next week, note that you may make your pre-reservation during the congress registration.
+> 🚨 Please be advised that registration for the congress is still open until 15 July. We expect to open the registration for the pre-congress excursion next week. Please note that you can pre-reserve the excursion during the general congress registration. We would therefore encourage you to pre-register for the excursion early. The number of people is limited to 80 and we will operate a first-come, first-served policy.
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >

@@ -1,10 +1,12 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-06-28
+Last update: 2024-07-04
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨 Please be advised that registration for the congress is still open until 15 July. We expect to open the registration for the pre-congress excursion next week. Please note that you can pre-reserve the excursion during the general congress registration. We would therefore encourage you to pre-register for the excursion early. The number of people is limited to 80 and we will operate a first-come, first-served policy.
+> 🚨🚨🚨 Please be advised that prices for the pre-congress excursion have been published. The cost is 350 or 400 euros, depending on whether you wish to share a room or not in the hotel. Further details can be found [here](https://lherzolite2024.github.io/#pre-conference-excursion-to-cabo-ortegal)
+>
+> 🚨 Please be advised that registration for the congress is open until 15 July. Note that you can pre-reserve the excursion during the general congress registration. We would therefore encourage you to pre-register for the excursion early. The number of people is limited to 80 and we will operate a first-come, first-served policy.
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
@@ -68,9 +70,12 @@ Fees include welcome reception, coffee breaks, refreshments and lunches. Accommo
 
 ### Pre-conference excursion to Cabo Ortegal
 
-> Available next week!
+> **Price with shared room accommodation**: 350€
+> **Price with single room accommodation**: 400€
+>
+> Registration fees include VAT. Please note that the excursion fees include transport to the Geopark, lunch, dinner and hotel accommodation with breakfast.
 
-The pre-conference excursion is limited to 80 participants. We will operate a first-come, first-served policy. Please note that excursion fees include transport to the Geopark, lunch, dinner and accommodation. <mark>Please note that you may make your pre-reservation during the congress registration.</mark>
+The pre-conference excursion is limited to 80 participants. We will operate a first-come, first-served policy. <mark>Please note that you may make your pre-reservation during the congress registration.</mark>
 
 ### Cancellation policy
 

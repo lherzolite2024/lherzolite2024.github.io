@@ -1,16 +1,16 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-07-04
+Last update: 2024-07-10
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨🚨🚨 Please be advised that prices for the pre-congress excursion have been published. The cost is 350 or 400 euros, depending on whether you wish to share a room or not in the hotel. Further details can be found [here](https://lherzolite2024.github.io/#pre-conference-excursion-to-cabo-ortegal)
+> 🚨🚨🚨 **We have extended the registration and abstract submission deadline to 31st July 2024** 
 >
-> 🚨 Please be advised that registration for the congress is open until 15 July. Note that you can pre-reserve the excursion during the general congress registration. We would therefore encourage you to pre-register for the excursion early. The number of people is limited to 80 and we will operate a first-come, first-served policy.
+> 🚨 We advise to pre-register for the excursion early. The number of people is limited to 80 and we will operate a first-come, first-served policy. Further details can be found [here](https://lherzolite2024.github.io/#pre-conference-excursion-to-cabo-ortegal). 
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
-> To keep up to date through social media follow us on Twitter/X at [@lherzolite2024](https://twitter.com/lherzolite2024) or visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> (no account is required to view announcements).
+> To keep up to date through social media follow us on Twitter/X at [@lherzolite2024](https://twitter.com/lherzolite2024) or visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> (no account is required to view announcements) Also now in [bluesky](https://bsky.app/profile/lherzolite2024.mas.to.ap.brid.gy).
 >
 
 _The 7th Orogenic Lherzolite Meeting will take place from 30 September to 4 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses._
@@ -41,7 +41,7 @@ The first International Orogenic Lherzolite meeting was held in Montpellier (Fra
 
 # Registration
 
-<iframe src="https://free.timeanddate.com/countdown/i9dfw8nh/n3759/cf11/cm0/cu3/ct4/cs1/ca0/co1/cr0/ss0/cac1e81b0/cpc000/pct/tcfff/fs100/szw576/szh243/tatTime%20left%20to%20register/tac1e81b0/tptTime%20since%20Event%20started%20in/tpc000/iso2024-07-15T23:59:59" allowtransparency="true" frameborder="0" width="398" height="70"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i9gbw1g7/n3759/cf11/cm0/cu3/ct4/cs0/ca0/co1/cr0/ss0/cac219ebc/cpcc20202/pcfafafa/tcfff/fs100/szw576/szh243/tatTime%20left%20to%20register/tac219ebc/tptTime%20since%20register%20closed/tpcc20202/iso2024-07-31T23:59:59" allowtransparency="true" frameborder="0" width="398" height="70"></iframe>
 
 ## How to register
 
@@ -84,11 +84,9 @@ A full refund will be offered for cancellations made before September 8th. From 
 # Abstract submission
 
 > [!IMPORTANT]
-> **Abstract submission is now open**
->
-> <font color=#c20202>**Deadline: 15 July 2024**</font>.
->
-> <iframe src="https://free.timeanddate.com/countdown/i9dfw8nh/n3759/cf11/cm0/cu3/ct4/cs1/ca0/co1/cr0/ss0/cacc20202/cpc000/pct/tcfff/fs100/szw576/szh243/tatTime%20left%20to%20abstract%20submission/tacc20202/tptTime%20since%20Event%20started%20in/tpc000/iso2024-07-15T23:59:59" allowtransparency="true" frameborder="0" width="516" height="70"></iframe>
+> <font color=#c20202>**HARD DEADLINE: 31 July 2024**</font>.
+
+<iframe src="https://free.timeanddate.com/countdown/i9gbw1g7/n3759/cf11/cm0/cu3/ct4/cs0/ca0/co1/cr0/ss0/cac7570b3/cpcc20202/pcfafafa/tcfff/fs100/szw576/szh243/tatTime%20left%20to%20abstract%20submission/tac7570b3/tptTime%20since%20abstract%20submission%20closed/tpcc20202/iso2024-07-31T23:59:59" allowtransparency="true" frameborder="0" width="516" height="70"></iframe>
 
 
 ## How to submit

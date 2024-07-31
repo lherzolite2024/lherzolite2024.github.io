@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-07-10
+Last update: 2024-07-31
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
@@ -75,7 +75,7 @@ Fees include welcome reception, coffee breaks, refreshments and lunches. Accommo
 >
 > Registration fees include VAT. Please note that the excursion fees include transport to the Geopark, lunch, dinner and hotel accommodation with breakfast.
 
-The pre-conference excursion is limited to 80 participants. We will operate a first-come, first-served policy. <mark>Please note that you may make your pre-reservation during the congress registration.</mark>
+The pre-conference excursion is limited to 80 participants. We will operate a first-come, first-served policy. <mark>If you have pre-reserved the excursion during the conference registration, you should soon receive an email from our team with a link to proceed to the payment. If not, please contact us.</mark>
 
 ### Cancellation policy
 

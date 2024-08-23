@@ -1,10 +1,12 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-08-01
+Last update: 2024-08-23
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨🚨🚨 **REGISTRATION CLOSED** 
+> 🚨🚨🚨**New section: Practical details of the pre-congress excursion**
+>
+> **REGISTRATION CLOSED** 
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
@@ -71,7 +73,7 @@ Fees include welcome reception, coffee breaks, refreshments and lunches. Accommo
 >
 > Registration fees include VAT. Please note that the excursion fees include transport to the Geopark, lunch, dinner and hotel accommodation with breakfast.
 
-The pre-conference excursion is limited to 80 participants. We will operate a first-come, first-served policy. <mark>If you have pre-reserved the excursion during the conference registration, you should soon receive an email from our team with a link to proceed to the payment. If not, please contact us.</mark>
+The pre-conference excursion is limited to 80 participants. We will operate a first-come, first-served policy.
 
 ### Cancellation policy
 
@@ -115,18 +117,33 @@ In a nutshell, the 7th Orogenic Lherzolite program is as follows:
 
 This is a two-day excursion that will take place in the [Cabo Ortegal UNESCO Global Geopark](https://www.unesco.org/en/iggp/geoparks/cabo-ortegal), situated in the region of Galicia in north-western Spain, from September 30th to October 1st, 2024. 
 
-**Transportation and Accommodation**:
+### Transportation
 
-On the afternoon of September 29th, one or two buses will transport participants from Oviedo to hotels near the Cabo Ortegal Geopark. The journey will take approximately three hours. Participants will return to Oviedo on the afternoon of October 1st.
+On the afternoon of the 29th of September, one or two buses will transport participants from Oviedo to hotels near the Cabo Ortegal Geopark. The bus will leave Oviedo at 4pm (16h). The meeting point from where the bus will depart is in Trece Rosas Street (co-ordinates: 43.359049, -5.855337; https://maps.app.goo.gl/yBfqoNhCEce42nfX8), in front of the Faculty of Geology. <mark>Please arrive at the meeting point at least 20 minutes in advance.</mark> The trip will take about 3 hours.
 
-**Excursion Itinerary:**
+> [!IMPORTANT]
+>
+> For those arriving in Oviedo on the 29th via Asturias airport, and considering the departure time, the only possible flights are as follows:
+>
+> \- from Madrid, arrival at 8.45
+> \- from Barcelona, arrivals at 9.05 and 13.10
+> \- from Alicante, arrival at 15.25
+> \- from London, arrival at 14.40
+>
+> 👉 It is possible to make a stop at Asturias airport to pick up passengers who do not wish to travel from the airport to Oviedo. The pick-up time at the airport would be between 16.40 and 16.50. <mark>It is necessary to inform the organisation before 15 September that you wish to be picked up at Asturias airport</mark>. If there are no requests for this service, there will be no stop at the airport.
+>
+> If you decide to go directly to A Coruña airport, the closest to the excursion area, without taking the bus from Oviedo, you will need to get from A Coruña to Ferrol yourself. The best option is by bus, https://www.omio.com/buses/a-coruna/ferrol-l3nqs, which is cheap (2-5 €) and there are many daily connections. <mark>If you choose this option, please inform the organisation in advance</mark>.
 
-- **Day 1 (September 30th):** The first day will focus on the mantle section, featuring amphibole-bearing spinel harzburgites and garnet-bearing pyroxenites.
-- **Day 2 (October 1st):** The second day will cover other high-pressure units, including pyrigarnites, hornblendites, orthopyroxene-free garnet granulites, and eclogites.
+### Excursion Itinerary
 
-We will provide detailed instructions on how to join the pre-conference excursion closer to the event date. We look forward to an exciting and informative excursion with you! 
+- **Day 1 (September 30th):** The first day will focus on the mantle section, including amphibole-bearing spinel harzburgites, garnet-bearing pyroxenites, chromitites and more.
+- **Day 2 (October 1st):** The second day will cover other high pressure high temperature units, including ultramafic cumulates (pyrigarnites), Opx-free garnet granulites, and eclogites. We will have lunch in the field and return to Oviedo in the afternoon.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d46124.178607761154!2d-7.887411!3d43.7362882!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1681307685380!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Accommodation
+
+Everything is included in the price of the excursion. We will be staying in two different hotels in the city of Ferrol and its surroundings. More information coming soon.
 
 ## Oviedo Meeting
 

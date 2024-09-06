@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-08-23
+Last update: 2024-09-06
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
@@ -268,11 +268,11 @@ After the abstract submission deadline, the program will be made available for d
 
 ### Oral presentations
 
-Guidelines and details closer to the event date.
+Guidelines and details available soon!
 
 ### Poster presenter guidelines
 
-See guidelines at https://github.com/lherzolite2024/lherzolite2024.github.io/blob/main/poster_info.md
+Guidelines and details available soon!
 
 ## Social activities
 

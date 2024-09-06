@@ -272,7 +272,7 @@ Guidelines and details available soon!
 
 ### Poster presenter guidelines
 
-Guidelines and details available soon!
+See: [poster guidelines](https://github.com/lherzolite2024/lherzolite2024.github.io/blob/main/poster_info.md)
 
 ## Social activities
 

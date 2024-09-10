@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-09-06
+Last update: 2024-09-11
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨🚨🚨**New section: Practical details of the pre-congress excursion**
+> 🚨🚨🚨**Conference programme of the 7thOLM released**, go to https://lherzolite2024.github.io/programme/ Please check that everything in your abstract is correct and that the times specified match the timetables. If not, please contact us. See also poster guidelines. Oral presentation guidelines will be released soon.
 >
 > **REGISTRATION CLOSED** 
 >
@@ -258,11 +258,11 @@ We will provide more info closer to the event date.
 
 After the abstract submission deadline, the program will be made available for download in PDF format below along with a link for viewing it in HTML.
 
-- [programme in pdf]() (not yet available)
+- [access the programme in html](https://lherzolite2024.github.io/programme/)
 
-- [access the programme in html]() (not yet available)
+- [download the programme as a single html file]() (for offline viewing in your favourite browser) (<mark>available soon</mark>)
 
-- [download the programme as a single html file]() (for offline viewing in your favourite browser)
+- [programme in pdf]() (<mark>available soon</mark>)
 
 ## Presenter guidelines
 

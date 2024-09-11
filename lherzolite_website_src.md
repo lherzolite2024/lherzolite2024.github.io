@@ -4,7 +4,7 @@ Last update: 2024-09-11
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨🚨🚨**Conference programme of the 7thOLM released**, go to https://lherzolite2024.github.io/programme/ Please check that everything in your abstract is correct and that the times specified match the timetables. If not, please contact us. See also poster guidelines. Oral presentation guidelines will be released soon.
+> 🚨🚨🚨**The conference programme for the 7thOLM has been published**, see https://lherzolite2024.github.io/programme/ Please check that everything in your abstract is correct and that the times specified match the timetables. If not, please contact us. See also poster guidelines at https://github.com/lherzolite2024/lherzolite2024.github.io/blob/main/poster_info.md Oral presentation guidelines will be released soon.
 >
 > **REGISTRATION CLOSED** 
 >

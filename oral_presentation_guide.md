@@ -1,13 +1,13 @@
-Last update: 2024-09-11
+Last update: 2024-09-13
 
 ## General guidelines
 
 Oral presentations are organized into sessions, as indicated in the program, along with the specific time of each contribution. Sessions are divided into five time blocks per day, each lasting 60 minutes. There is a single conference room dedicated to all oral presentations.
 
-- **Time Allotment:** Each oral presentation is allocated a total of 20 minutes, including 5 minutes for discussion and audience questions. Check the schedule for your talk on the [programme website](https://lherzolite2024.github.io/programme/). Please note that the allocated presentation time must not be exceeded.
+- **Time Allotment:** Each oral presentation is allocated a total of 20 minutes, including 5 minutes for discussion and audience questions (i.e. 15 + 5 min). Check the schedule for your talk on the [programme website](https://lherzolite2024.github.io/programme/). Please note that the allocated presentation time must not be exceeded.
 - **Live Presentations:** All presentations must be delivered live and in person. <mark>Pre-recorded presentations are not permitted</mark>.
 
-> TO CHECK (more details available soon)
+> TO CHECK (more details soon)
 >
 > - possibility to use your own computer for the presentation
 > - **Presentation Equipment:** The conference room is equipped with a Windows 11 PC running updated versions of PowerPoint (from Microsoft Office 365), LibreOffice, Adobe Acrobat, and other standard presentation software...

@@ -1,4 +1,4 @@
-Last update: 2024-09-11
+Last update: 2024-09-13
 
 ## Poster boards
 
@@ -16,11 +16,11 @@ Last update: 2024-09-11
 - **Title and Author Details**: Ensure that the title of your abstract is clearly visible at the top of the poster for easy identification. Include the names and contact information of all authors, including their affiliations. It is encouraged to add your ORCID iD.
 - **Readability**: Diagrams, charts, and text should be large enough to be legible from a distance of 1.5–2.0 meters. We recommend using a minimum font size of 16 pt for the main text. Use distinct colors or line types for different elements in your graphs or charts to aid clarity.
 - **Presenting Author:** Verify that the correct author is assigned as the presenting author in the programme.
-- **Oral Summary:** <mark>Poster presenters should prepare a 2-minute oral presentation to explain the key points of your research.</mark>
+- **Oral Summary:** <mark>Poster presenters should prepare a 1-minute oral presentation to explain the key points of their research.</mark> You should also prepare a single slide to accompany this 1-minute presentation.
 - If you want the 7thOLM logo, you can download it here: https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/logo.jpg
 
 ## Poster printing service
 
-(more details available soon)
+The University has a printing service which is open from 9:00 to 14:00. Please ask the organising staff if you need this service.
 
 [Back to the congress website](https://lherzolite2024.github.io/)

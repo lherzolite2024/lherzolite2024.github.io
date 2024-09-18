@@ -1,4 +1,4 @@
-Last update: 2024-09-13
+Last update: 2024-09-19
 
 ## Poster boards
 
@@ -8,19 +8,21 @@ Last update: 2024-09-13
 
 ## On-site poster display and attendance time
 
-- **Display Time:** Posters will be displayed from 09:00 to 19:00. Specific attendance times (when presenters should be available at their posters) will be announced.
-- **Poster Removal:** The poster can remain hanging for the duration of the congress but must be taken down by 14:00 on Friday, September 4.  **Any posters left after this time will be removed and discarded by conference staff.**
+- **Display Time:** Posters will be displayed from 09:00 to 19:00. Specific attendance times (when presenters should be available at their posters) are from 14:00 to 16:00.
+- **Poster Removal:** The poster can remain hanging for the duration of the congress but must be taken down by 16:00 on Friday, September 4.  **Any posters left after this time will be removed and discarded by conference staff.**
 
 ## Poster preparation
 
-- **Title and Author Details**: Ensure that the title of your abstract is clearly visible at the top of the poster for easy identification. Include the names and contact information of all authors, including their affiliations. It is encouraged to add your ORCID iD.
+- **Title and Author Details**: Ensure that the title of your abstract is clearly visible at the top of the poster for easy identification. Include the names and contact information of all authors, including their affiliations.
 - **Readability**: Diagrams, charts, and text should be large enough to be legible from a distance of 1.5–2.0 meters. We recommend using a minimum font size of 16 pt for the main text. Use distinct colors or line types for different elements in your graphs or charts to aid clarity.
 - **Presenting Author:** Verify that the correct author is assigned as the presenting author in the programme.
 - **Oral Summary:** <mark>Poster presenters should prepare a 1-minute oral presentation to explain the key points of their research.</mark> You should also prepare a single slide to accompany this 1-minute presentation.
-- If you want the 7thOLM logo, you can download it here: https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/logo.jpg
+- If you want the 7thOLM logo, you can download it here:
+  - [with white background](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/logo.jpg)
+  - [with transparent background](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/logo_transparent_background.png)
 
 ## Poster printing service
 
-The University has a printing service which is open from 9:00 to 14:00. Please ask the organising staff if you need this service.
+The University has a printing service which is open from 9:00 to 14:00. Please ask the organizing staff if you need this service.
 
 [Back to the congress website](https://lherzolite2024.github.io/)

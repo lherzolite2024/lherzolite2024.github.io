@@ -23,6 +23,10 @@ Last update: 2024-09-19
 
 ## Poster printing service
 
-The University has a printing service which is open from 9:00 to 14:00. Please ask the organizing staff if you need this service.
+For those interested, the Publications Service of the University of Oviedo offers a poster printing service, which operates as follows:
+
+- Send the poster via email to **vanessa.fuo (at) uniovi (dot) es** as an attachment, or use an alternative method if the file is too large.
+- Posters will be ready for collection on the first day of the congress.
+- The cost for an A0 color print is €18.15 (VAT included), with a 15% handling fee, bringing the total to €22 per poster. Payment can be made online by credit card, using the same process as for congress registration.
 
 [Back to the congress website](https://lherzolite2024.github.io/)

@@ -1,4 +1,4 @@
-Last update: 2024-09-19
+Last update: 2024-09-24
 
 ## General guidelines
 
@@ -11,7 +11,7 @@ Oral presentations are organized into sessions, as indicated in the program, alo
 
 ## How to prepare for your oral presentation
 
-- **Font Size:** Use a minimum font size of **24 pt** to ensure that your slides are easily readable by everyone in the room.
+- **Font Size:** Please use a minimum font size of **20 pt** to ensure that your slides are easily readable by everyone in the room.
 - **Aspect Ratio:** You may create your slides in either **16:9** or **4:3** aspect ratios, though <mark>**4:3** is recommended</mark> to maximize screen space (see below)
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/IMG_20240918_123917.jpg)

@@ -276,7 +276,17 @@ https://github.com/lherzolite2024/lherzolite2024.github.io/blob/main/poster_info
 
 ## Social activities
 
-We will provide more info closer to the event date.
+**Thursday, 3rd October – Social Events**
+
+We have some exciting activities lined up for the evening!
+
+At **7:00 PM**, join us for a guided tour of Oviedo’s historic center. The tour will begin at the historic building of the University of Oviedo (the Congress venue) and will last about an hour and a half. We’ll explore some of the city's beautiful landmarks and history, finishing just in time for dinner!
+
+At **8:30 PM**, the tour will wrap up at La Gran Taberna restaurant, where we’ll gather for the Gala Dinner.
+
+**Gala Dinner**
+
+The Gala Dinner will be held at **La Gran Taberna** in Oviedo (More details to follow soon.)
 
 ## Student awards
 

@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
 
-Last update: 2024-09-23
+Last update: 2024-09-25
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
@@ -257,11 +257,8 @@ We will provide more info closer to the event date.
 
 After the abstract submission deadline, the program will be made available for download in PDF format below along with a link for viewing it in HTML.
 
-- [access the programme in html](https://lherzolite2024.github.io/programme/)
-
-- [download the programme as a single html file]() (for offline viewing in your favourite browser) (<mark>available soon</mark>)
-
-- [programme in pdf]() (<mark>available soon</mark>)
+- [7thOLM congress programme website](https://lherzolite2024.github.io/programme/)
+- [Download the programme as a single html file v.2024.09.24](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v20240924/program7OLM_website_v20240924.htm) (for offline viewing in your favourite browser) 
 
 ## Presenter guidelines
 

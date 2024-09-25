@@ -1,4 +1,4 @@
-Last update: 2024-09-24
+Last update: 2024-09-26
 
 ## General guidelines
 
@@ -6,7 +6,10 @@ Oral presentations are organized into sessions, as indicated in the program, alo
 
 - **Time Allotment:** Each oral presentation is allocated a total of 20 minutes, including 5 minutes for discussion and audience questions (i.e. 15 + 5 min). Check the schedule for your talk on the [programme website](https://lherzolite2024.github.io/programme/). Please note that the allocated presentation time must not be exceeded.
 - **Live Presentations:** All presentations must be delivered live and in person. <mark>Pre-recorded presentations are not permitted</mark>.
-- **Presentation Equipment:** The meeting room is equipped with a Windows 11 laptop with updated versions of PowerPoint (from Microsoft Office 365) and Adobe Acrobat. There is also software for viewing multimedia files (images and video). It also has an Internet connection and sound system.  <mark>If you need special software for your presentation, please contact us in advance to try to find a solution. To ensure a smooth and timely event, it is not allowed to connect your computer to the projector unless there is a justified reason and only after consultation with the organisers.</mark>
+- **Presentation Equipment:** The meeting room is equipped with a beamer connected to a laptop PC Windows 11 environment laptop with updated versions of PowerPoint (Microsoft Office 365) and Adobe Acrobat Pro. There is also software for viewing multimedia files (images and video). It also has an Internet connection and sound system.  <mark>If you need special software for your presentation, please contact us in advance to try to find a solution. To ensure a smooth and timely event, it is not allowed to connect your computer to the projector unless there is a justified reason and only after consultation with the organisers.</mark>
+- A laser pointer, a remote control slide projector and a microphone (for question time) will be available.
+- Speakers should **bring their presentation on a USB memory stick** to transfer to the computer in the presentation room. Room staff will assist you in uploading your file to the computer. Speakers should arrive in their session room at least 10 minutes before the start of their session to upload their file (if not done before) and to report to the Session Chair. Files can also be uploaded well in advance, during breaks between sessions. It is advisable to bring both a PPTX and a PDF presentation. The file name should have the following format including your name, day and block, for example: ``Wed_b1_Lissenberg.pptx`` (Wednesday, oral block 1) ``Thur_b2_Morishita.pptx`` (Thursday, oral block 2), and so on.
+- Please arrive at least 10 minutes before the session start and introduce yourself to the session chair before the start of the session.
 
 
 ## How to prepare for your oral presentation
@@ -19,6 +22,7 @@ _The aspect of the projection screen in the Severo Ochoa room where the oral com
 
 - **File Formats:** Acceptable file formats for presentations include `*.pdf`, `*.ppt/pptx`, `*.pps/ppsx`, `*.png`, `*.jpg`, and `*.mp4`.
 - **Try to use common fonts** to avoid surprises during your PowerPoint presentation (if the font you use is not installed on the laptop, PowerPoint will substitute it and it will not look the same as the original). Alternatively, you can embed the fonts or convert the presentation to a PDF format.
+- A wise guideline for the **number of slides** in your presentation is 1.0-1.5 minute per slide. Thus the expected number of slides in the oral presentation is 10-15 for orals of 15 minutes, all depending on the density of information per slide.
 - **Image Credits:** Ensure that all images, charts, and external materials used in your presentation are properly credited to their respective sources.
 - **Color Accessibility:** When designing charts and maps, try using scientific color schemes that are accessible to individuals with color vision deficiencies.
 - If you want the 7thOLM logo, you can download it here:

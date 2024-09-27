@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/header.jpg)
+![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/header.jpg)
 
-Last update: 2024-09-26
+Last update: 2024-09-27
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >

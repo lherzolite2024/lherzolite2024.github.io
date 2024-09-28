@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/header.jpg)
 
-Last update: 2024-09-27
+Last update: 2024-09-28
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
@@ -151,7 +151,7 @@ The 7th OLM Congress will be held in Oviedo, Asturias, Spain, from 2 to 4 Octobe
 
 The oral sessions will be held in the Severo Ochoa Room within the University’s historic building (see figure below for details). Poster sessions and coffee breaks will take place in the arcaded courtyard. An additional space, the Rector Alas Room, will be available for talk preparation and other purposes.
 
-Wireless Internet access via the [Eduroam](https://www.eduroam.es/index.en.php) network will be available throughout all congress areas. If your institution is not part of the Eduroam network, please ask the organizers for alternative access with a username and password.
+Wireless Internet access via the [Eduroam](https://www.eduroam.es/index.en.php) network will be available throughout all congress areas. If your institution is not part of the Eduroam network, please ask the organizers for alternative access.
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/salaSeveroOchoa.jpg)
 
@@ -161,7 +161,7 @@ _**a**. Entrance to the Historic Building of the University of Oviedo from San F
 
 [Oviedo](https://en.wikipedia.org/wiki/Oviedo) is a vibrant city in the region of Asturias, Spain. Nestled in the north-western part of the country and being the capital city of Asturias, Oviedo offers a rich blend of history, culture and modern amenities. The city is located in the Cantabrian Mountains, surrounded by green landscapes. It is a medium-size (220 000 inhabitants) walkable city, allowing visitors to explore its charming streets and discover hidden gems at their leisure. The city centre offers a pedestrian-friendly environment, making it easy to navigate and ensuring that congress attendees can easily access the venue, as well as enjoy the numerous restaurants, cafes, and shops that line the streets.
 
-With a history dating back to Roman times, Oviedo has preserved its architectural heritage while embracing contemporary development. The city has remarkable monuments that reflect its past. It is particularly renowned for its [Asturian pre-Romanesque architecture](https://www.spain.info/en/top/asturias-pre-romanesque/) style, first appeared in the 8th century, which showcases a unique and influential style from the early Middle Ages. The city is home to a number of exceptional pre-Romanesque buildings, including the Santa María del Naranco palace, the San Julián de los Prados and San Miguel de Lillo churches, the _Cámara Santa_ (Holy Chamber) or the Foncalada fountain, all of them recognized as [UNESCO World Heritage sites](https://whc.unesco.org/en/list/312/). Also, the Gothic-style Oviedo Cathedral, built between the centuries 13th and 16th, stands as an impressive example of medieval architecture. The cathedral is less than 5 minutes walk from the conference venue. The [Museum of Fine Arts of Asturias](https://www.museobbaa.com/en/museum/) is also close to the congress area, next to the cathedral, and is free of charge. Oviedo's historic old town, known as the _Casco Antiguo_, is a maze of narrow streets and squares, adorned with beautiful buildings and picturesque plazas. Places to visit near the Congress are _Plaza Trascorrales_, _Plaza de la Constitución_ and _Plaza del Fontán_.
+With a history dating back to Roman times, Oviedo has preserved its architectural heritage while embracing contemporary development. The city has remarkable monuments that reflect its past. It is particularly renowned for its [Asturian pre-Romanesque architecture](https://www.spain.info/en/top/asturias-pre-romanesque/) style, first appeared in the 8th century, which showcases a unique and influential style from the early Middle Ages. The city is home to a number of exceptional pre-Romanesque buildings, including the Santa María del Naranco palace, the San Julián de los Prados and San Miguel de Lillo churches, the _Cámara Santa_ (Holy Chamber) or the Foncalada fountain, all of them recognized as [UNESCO World Heritage sites](https://whc.unesco.org/en/list/312/). Also, the Gothic-style Oviedo Cathedral, built between the centuries 13th and 16th, stands as an impressive example of medieval architecture. The cathedral is less than 5 minutes walk from the conference venue. The [Museum of Fine Arts of Asturias](https://www.museobbaa.com/en/museum/) is also close to the congress area, next to the cathedral, and is free of charge. Oviedo's historic old town, known as the _Casco Antiguo_, is a maze of narrow streets and squares, adorned with beautiful buildings and picturesque plazas. Places to visit near the Congress are _Plaza Trascorrales_, _Plaza de la Constitución_, _Plaza del Fontán_ and _Plaza del Paraguas_.
 
 Lastly, the building that houses the geology studies of the University of Oviedo, built in 1965 by the architect Ignacio Álvarez Castelao, is a protected architectural building which is worth a visit. The building structure comprises two distinct yet interconnected buildings —the departmental building and the lecture hall— nestled within a spacious open area that includes a geological garden. A notable feature of this structure is the lecture hall, which expands akin to the spiral of a mollusc shell. The buildings integrate several works of art linked to different disciplines in the field of geology. The departmental building also houses a geology museum, which is free and a mainstay of geoscience outreach in the region.
 
@@ -249,22 +249,22 @@ Note that most are located in the historic city centre and will therefore be mor
 
 # Pre-conference fieldtrip
 
-Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure rock units (Garnet-bearing Opx-free granulites, cummulates & eclogites) of the Cabo Ortegal massif (NW of Iberian Peninsula).
+Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure high-temperature rock units (Opx-free garnet granulites, arclogites & eclogites) of the Cabo Ortegal Complex(NW of Iberian Peninsula).
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/Ouzal_LR.jpg)
 
-We will provide more info closer to the event date.
+Pictures and more after the congress!
 
 # Programme & event schedule
 
-After the abstract submission deadline, the program will be made available for download in PDF format below along with a link for viewing it in HTML.
+After the abstract submission deadline, the program will be made available as a website and for download in an encapsulated HTML format.
 
 - [7thOLM congress programme website](https://lherzolite2024.github.io/programme/)
 - [Download the programme as a single encapsulated html file v.2024.09.24](https://github.com/lherzolite2024/lherzolite2024.github.io/releases/download/v20240924/program7OLM_website_v20240924.html) (for offline viewing in your favourite browser, 4 Mb aprox.) 
 
 ## Presenter guidelines
 
-The Orogenic Lherzolite Congresses are known for their itinerant nature and the absence of invited speakers or keynotes. This ensures that all participants have equal opportunity and time to present their work.
+The Orogenic Lherzolite Congresses are known for their itinerant nature and the lack of invited speakers or keynotes. This ensures that all participants have equal opportunity and time to present their work. Oral and poster presentation guidelines below.
 
 ### Oral presentations
 
@@ -286,7 +286,7 @@ At **8:30 PM**, the tour will wrap up at La Gran Taberna restaurant, where we’
 
 **Gala Dinner**
 
-The Gala Dinner will be held at **La Gran Taberna** in Oviedo (More details to follow soon.)
+The Gala Dinner will be held at [La Gran Taberna]([La Gran Taberna I Bar Restaurante](https://lagrantaberna.es/)) in Oviedo. We're going to have a lovely time together at an [espicha](https://eatingasturias.com/wiki/Espicha), which is a special kind of dinner party that's really popular in Asturias. It's a stand-up dinner, which is a really fun way to eat for a large group. You can go around with your plates and serve yourself the food on the tables (like a buffet of traditional _tapas_). This ensures that you mingle, circulate and chat with everyone and get to know them better!
 
 ## Student awards
 

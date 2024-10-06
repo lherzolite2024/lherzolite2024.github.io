@@ -288,10 +288,6 @@ At **8:30 PM**, the tour will wrap up at La Gran Taberna restaurant, where we’
 
 The Gala Dinner will be held at [La Gran Taberna](https://lagrantaberna.es/) in Oviedo. We're going to have a lovely time together at an [espicha](https://eatingasturias.com/wiki/Espicha), which is a special kind of dinner party that's really popular in Asturias. It's a stand-up dinner, which is a really fun way to eat for a large group. You can go around with your plates and serve yourself the food on the tables (like a buffet of traditional _tapas_). This ensures that you mingle, circulate and chat with everyone and get to know them better!
 
-## Student awards
-
-We will provide more info closer to the event date.
-
 # Support
 
 ![logos](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/logos_lherzolite.jpg)

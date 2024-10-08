@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/header.jpg)
 
-Last update: 2024-09-28
+Last update: 2024-10-08
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨🚨🚨**The conference programme for the 7thOLM has been published**: [programme](https://lherzolite2024.github.io/programme/). Please check that everything in your abstract is correct and that the times specified match the timetables. If not, please contact us. See also [poster guidelines](https://github.com/lherzolite2024/lherzolite2024.github.io/blob/main/poster_info.md) and [oral presentation guidelines](https://github.com/lherzolite2024/lherzolite2024.github.io/blob/main/oral_presentation_guide.md).
+> 🚨🚨🚨New! Access to the congress photo albums: [Pre-conference excursion](https://photos.google.com/share/AF1QipNlrxTqfDqPk7BnjIJEf7C0uEwZbNlGTsM6Kb8yKttXKpbV0Pb2-xy9NKIpaaK2Hg?key=RXJlM2pBUUhRd1BDaG9SSHF4d0s1M0EtZ0Q0cjNR) & [Oviedo Meeting](https://photos.google.com/album/AF1QipMJiutmfjs4tOTwBtBV_UdvG27SaTE8sz35lDY-)
 >
-> **REGISTRATION CLOSED** 
+> 🙏 We'd absolutely love to see your photos from the excursion and the congress! Please send them to the congress email and we'll add them to the albums.
 >
 > **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
 >
@@ -253,7 +253,15 @@ Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure high
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/Ouzal_LR.jpg)
 
-Pictures and more after the congress!
+## Excursion pictures
+
+![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/vixia_herbeira.jpg)
+Vixía Herbeira where it all began, including the rain and the fog.
+
+![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/cabo_ortegal.jpg)
+Group photo at Cabo Ortegal. After two days of non-stop rain, the people are still smiling! Must be the rocks.
+
+👉 [Take me to see all the pictures of the excursion](https://photos.google.com/share/AF1QipNlrxTqfDqPk7BnjIJEf7C0uEwZbNlGTsM6Kb8yKttXKpbV0Pb2-xy9NKIpaaK2Hg?key=RXJlM2pBUUhRd1BDaG9SSHF4d0s1M0EtZ0Q0cjNR)
 
 # Programme & event schedule
 
@@ -284,9 +292,9 @@ At **7:00 PM**, join us for a guided tour of Oviedo’s historic center. The tou
 
 At **8:30 PM**, the tour will wrap up at La Gran Taberna restaurant, where we’ll gather for the Gala Dinner.
 
-**Gala Dinner**
+**Conference Dinner**
 
-The Gala Dinner will be held at [La Gran Taberna](https://lagrantaberna.es/) in Oviedo. We're going to have a lovely time together at an [espicha](https://eatingasturias.com/wiki/Espicha), which is a special kind of dinner party that's really popular in Asturias. It's a stand-up dinner, which is a really fun way to eat for a large group. You can go around with your plates and serve yourself the food on the tables (like a buffet of traditional _tapas_). This ensures that you mingle, circulate and chat with everyone and get to know them better!
+The Conference Dinner will be held at [La Gran Taberna](https://lagrantaberna.es/) in Oviedo. We're going to have a lovely time together at an [espicha](https://eatingasturias.com/wiki/Espicha), which is a special kind of dinner party that's really popular in Asturias. It's a stand-up dinner, which is a really fun way to eat for a large group. You can go around with your plates and serve yourself the food on the tables (like a buffet of traditional _tapas_). This ensures that you mingle, circulate and chat with everyone and get to know them better!
 
 # Support
 

@@ -4,7 +4,7 @@ Last update: 2024-10-08
 
 > **LAST ANNOUNCEMENTS** 📣📣📣
 >
-> 🚨🚨🚨New! Access to the congress photo albums: [Pre-conference excursion](https://photos.app.goo.gl/5eDBpXVWKp1PLbNWA) & [Oviedo Meeting](https://photos.app.goo.gl/5eDBpXVWKp1PLbNWA)
+> 🚨🚨🚨New! Access to the congress photo albums: [Pre-conference excursion](https://photos.app.goo.gl/2fszSNyzUadRm61K8) & [Oviedo Meeting](https://photos.app.goo.gl/5eDBpXVWKp1PLbNWA)
 >
 > 🙏 We'd absolutely love to see your photos from the excursion and the congress! Please send them to the congress email and we'll add them to the albums.
 >
@@ -261,7 +261,7 @@ Vixía Herbeira where it all began, including the rain and the fog.
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/cabo_ortegal.jpg)
 Group photo at Cabo Ortegal. After two days of non-stop rain, the people are still smiling! Must be the rocks.
 
-👉 [Take me to see all the pictures of the excursion](https://photos.app.goo.gl/5eDBpXVWKp1PLbNWA)
+👉 [Take me to see all the pictures of the excursion](https://photos.app.goo.gl/2fszSNyzUadRm61K8)
 
 # Programme & event schedule
 

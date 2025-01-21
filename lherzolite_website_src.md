@@ -1,23 +1,27 @@
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/header.jpg)
 
-Last update: 2024-10-08
-
-> **LAST ANNOUNCEMENTS** 📣📣📣
->
-> 🚨🚨🚨New! Access to the congress photo albums: [Pre-conference excursion](https://photos.app.goo.gl/2fszSNyzUadRm61K8) & [Oviedo Meeting](https://photos.app.goo.gl/5eDBpXVWKp1PLbNWA)
->
-> 🙏 We'd absolutely love to see your photos from the excursion and the congress! Please send them to the congress email and we'll add them to the albums.
->
-> **SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024)
->
-> To keep up to date through social media follow us on Twitter/X at [@lherzolite2024](https://twitter.com/lherzolite2024) or visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> (no account is required to view announcements)
->
+Last update: 2025-01-22
 
 _The 7th Orogenic Lherzolite Meeting will take place from 30 September to 4 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses._
 
 _Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating._
 
 _Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to the **7th Orogenic Lherzolite Meeting** in Spain, where fruitful discussions and valuable networking await!_
+
+## Excursion and conference pictures of the 7th edition
+
+![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/vixia_herbeira.jpg)
+Vixía Herbeira where it all began, including the rain and the fog.
+
+![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/cabo_ortegal.jpg)
+Group photo at Cabo Ortegal. After two days of non-stop rain, people are still smiling! – it must be the rocks!
+
+👉 [I want to see all the excursion pictures](https://photos.app.goo.gl/2fszSNyzUadRm61K8)
+👉 [I want to see the conference pictures.](https://photos.app.goo.gl/5eDBpXVWKp1PLbNWA)
+
+**SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024),visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> 🚨No longer active!🚨
+
+
 
 Website map (click where you want to go)
 
@@ -252,16 +256,6 @@ Note that most are located in the historic city centre and will therefore be mor
 Mantle (peridotites and Grt-bearing pyroxenites) and adjacent high-pressure high-temperature rock units (Opx-free garnet granulites, arclogites & eclogites) of the Cabo Ortegal Complex(NW of Iberian Peninsula).
 
 ![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/main/imgs/Ouzal_LR.jpg)
-
-## Excursion pictures
-
-![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/vixia_herbeira.jpg)
-Vixía Herbeira where it all began, including the rain and the fog.
-
-![](https://raw.githubusercontent.com/lherzolite2024/lherzolite2024.github.io/refs/heads/main/imgs/cabo_ortegal.jpg)
-Group photo at Cabo Ortegal. After two days of non-stop rain, the people are still smiling! Must be the rocks.
-
-👉 [Take me to see all the pictures of the excursion](https://photos.app.goo.gl/2fszSNyzUadRm61K8)
 
 # Programme & event schedule
 

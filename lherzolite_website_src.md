@@ -2,11 +2,7 @@
 
 Last update: 2025-01-22
 
-_The 7th Orogenic Lherzolite Meeting will take place from 30 September to 4 October 2024 in NW Spain around the Cabo Ortegal high-pressure complex (field trip) and the city of Oviedo (congress). The Cabo Ortegal region is known for its remarkable outcrops of kilometre-scale mantle bodies (mainly serpentinised harzburgites and Grt-bearing pyroxenites) associated with high-P (Opx-free) garnet granulites, eclogites, and high-P paragneisses._
-
-_Join us for this exciting event, where researchers and experts in the field will gather to share knowledge and explore the latest advances in the processes operating in the mantle and at the transition between the upper mantle and the lower crust. We invite you to submit your innovative and groundbreaking contributions to the conference. We ask you to forward this information among colleagues who may be interested in participating._
-
-_Mark your calendars and stay tuned for further updates on registration,  abstract submission, and key dates. We look forward to welcoming you to the **7th Orogenic Lherzolite Meeting** in Spain, where fruitful discussions and valuable networking await!_
+_The 7th Orogenic Lherzolite Meeting was held from 30 September to 4 October 2024 in north-western Spain, with an excursion to the high-pressure, high-temperature complex of Cabo Ortegal in Galicia, and the congress held in the historic building of the University of Oviedo in Oviedo (Asturias). Thanks to all participants and see you at the next lherzolite conference!_ This website will remain in archive mode from now on.
 
 ## Excursion and conference pictures of the 7th edition
 
@@ -19,7 +15,7 @@ Group photo at Cabo Ortegal. After two days of non-stop rain, people are still s
 👉 [I want to see all the excursion pictures](https://photos.app.goo.gl/2fszSNyzUadRm61K8)
 👉 [I want to see the conference pictures.](https://photos.app.goo.gl/5eDBpXVWKp1PLbNWA)
 
-**SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024),visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> 🚨No longer active!🚨
+**SOCIAL**: [#Lherzolite2024](https://twitter.com/hashtag/Lherzolite2024?src=hashtag_click) [#lherzolite2024](#lherzolite2024),visit us on <a rel="me" href="https://mas.to/@lherzolite2024">Mastodon</a> 🚨No longer active but archived!🚨
 
 
 
